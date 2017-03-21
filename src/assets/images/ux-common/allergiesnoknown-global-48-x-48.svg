@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>2EC3AE76-CC6F-40A4-A0A0-3DEA003DBD50</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#CB0000" offset="0%"></stop>
+            <stop stop-color="#B30000" offset="46.550293%"></stop>
+            <stop stop-color="#980000" offset="100%"></stop>
+        </linearGradient>
+        <path d="M1.88323663,19.266 L19.2229546,1.9524 C20.5269187,0.6516 22.2455073,0 23.9640959,0 C25.6826845,0 27.4012732,0.6516 28.7052373,1.9524 L46.0449552,19.266 C48.6516816,21.87 48.6516816,26.13 46.0449552,28.734 L28.7052373,46.0476 C27.4012732,47.3484 25.6826845,48 23.9640959,48 C22.2455073,48 20.5269187,47.3484 19.2229546,46.0476 L1.88323663,28.734 C0.830682687,27.6830315 0.202937145,26.3623152 0,24.9895904 L1.05059208e-09,23.0104084 C0.202937145,21.6376848 0.830682687,20.3169685 1.88323663,19.266 Z" id="path-2"></path>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="48" height="48" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="48" height="48" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="allergiesnoknown_global_48x48">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <g id="Clip-2-Copy" stroke="url(#linearGradient-1)" mask="url(#mask-3)" stroke-width="6" fill="#FFFFFF">
+                <use mask="url(#mask-5)" xlink:href="#path-2"></use>
+            </g>
+            <path d="M24,40 C21.789,40 20,38.203 20,36 C20,33.789 21.789,32 24,32 C26.21,32 28,33.789 28,36 C28,38.203 26.21,40 24,40 Z M20,8 L28,8 L28,28 L20,28 L20,8 Z" id="Fill-4" fill="#CB0000"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,278 @@
+
+<div class="container-fluid" *ngIf="groupDef" style="min-width: 400px;padding: 0 !important;margin-bottom:150px;">
+
+
+    <div class="row" *ngIf="groupDef.items.length > 1" style="margin-top: 1em; margin-bottom: 1em; align-items: center; justify-content: flex-start;">
+
+
+        <div class="dropdown col col-md-auto" style="padding: 0 !important;">
+            <button  (click)="setWorkingAttribute(idx)" class="btn btn-secondary btn-secondary-plain dropdown-toggle dropdown-toggle-plain" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Stop
+            </button>
+
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <a class="dropdown-item menu-item-link-no-select"  >Continue</a>
+                <a class="dropdown-item menu-item-link-no-select" >Stop</a>
+            </div>
+        </div>
+
+
+        <span class="col col-md-auto" style="padding-right: 0 !important;">if the results of </span>
+        <div class="dropdown col col-md-auto" style="padding: 0 !important;">
+            <button  (click)="setWorkingAttribute(idx)" class="btn btn-secondary btn-secondary-plain dropdown-toggle dropdown-toggle-plain" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                {{groupDef.groupOperator}}
+            </button>
+
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <a class="dropdown-item menu-item-link-no-select "(click)="setGroupOperator('any', $event)" >Any</a>
+                <a class="dropdown-item menu-item-link-no-select "  (click)="setGroupOperator('all', $event)" >All</a>
+                <a class="dropdown-item menu-item-link-no-select " >(custom)</a>
+
+            </div>
+        </div>
+        <span  class="col col-md-auto" style="padding: 0 !important;">of the groups are true:</span>
+    </div>
+
+
+
+    <!-- chevron selectors for the rules -->
+    <svg style="margin-top:5px;width:1100px;height:90px;" >
+        <g (click)="setActiveRule(item)"  [ngClass]="{'rule-g': true, 'selected': ruleShouldBeSelected(item)} " [attr.transform]="getConnectorTranslate(200,70, idx)" *ngFor="let item of groupDef.items; let idx = index;">
+            <polygon class="rule-rect" fill="white" stroke="#999999"  [attr.points]="getConnectorPoints(200, 70, false)"></polygon>
+            <foreignObject [attr.x]="25" [attr.y]="1" width="160" height="70" requiredExtensions="http://www.w3.org/1999/xhtml">
+                <xhtml:body  xmlns="http://www.w3.org/1999/xhtml" style="background:transparent;padding:0 !important;margin: 0 !important">
+                    <xhtml:div class="rule-label">{{item.title}}</xhtml:div>
+                </xhtml:body>
+            </foreignObject>
+        </g>
+
+        <g class="rule-g" [attr.transform]="getConnectorTranslate(200, 70, groupDef.items.length)">
+            <polygon class="btn-add-new" fill="white" stroke="#999999"  [attr.points]="getConnectorPoints(200, 70, false)"></polygon>
+            <foreignObject [attr.x]="25" [attr.y]="25" width="160" height="70" requiredExtensions="http://www.w3.org/1999/xhtml">
+                <xhtml:body  xmlns="http://www.w3.org/1999/xhtml" style="background:transparent;padding:0 !important;margin: 0 !important">
+                    <xhtml:div style="color:#999999;text-align:center;">Add Group. . .</xhtml:div>
+                </xhtml:body>
+            </foreignObject>
+        </g>
+    </svg>
+
+
+
+    <!-- cycle through the individual rules -->
+    <div *ngFor="let group of groupDef.items; let groupIndex = index;" >
+
+        <div *ngIf="activeRule ? activeRule.id == group.id : true" style="border: 1px solid #e3e3e3;margin:10px;padding: 10px;">
+            <div class="row" style="align-items: center;">
+
+                <div class="form-group col col-md-auto">
+                    <input  type="text"  placeholder="group name" [(ngModel)]="group.title" style="width: 350px;font-size:14pt;border:none">
+                </div>
+
+                <div class="dropdown col col-md-auto">
+                    <button style="letter-spacing: 0.08em;color:#999999" class="btn btn-secondary btn-secondary-plain-round dropdown-toggle dropdown-toggle-plain" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                       &bull;&bull;&bull;
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="dropdown-item menu-item-link-no-select ">Create Template from this item</a>
+                        <a class="dropdown-item menu-item-link-no-select ">Add to existing template</a>
+                        <a class="dropdown-item menu-item-link-no-select">Duplicate</a>
+                        <a class="dropdown-item menu-item-link-no-select">Delete</a>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row" style="align-items: center;margin-top:-1.1em;">
+                <span class="col" style="color:#999999">{{getTriggerLabel(group.groupTypeId)}}</span>
+            </div>
+
+
+            <div class="row " style="margin-top: 1em; margin-bottom: 1em; align-items: center; justify-content: flex-start;">
+                <span class="col col-md-auto" style="padding-right: 0 !important;">Success if </span>
+                <div class="dropdown col col-md-auto" style="padding: 0 !important;">
+                    <button  (click)="setWorkingAttribute(idx)" class="btn btn-secondary btn-secondary-plain dropdown-toggle dropdown-toggle-plain" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        {{group.groupOperator}}
+                    </button>
+
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="dropdown-item menu-item-link-no-select"(click)="setGroupOperator('any', $event)" >Any</a>
+                        <a class="dropdown-item menu-item-link-no-select"  (click)="setGroupOperator('all', $event)" >All</a>
+                        <a class="dropdown-item menu-item-link-no-select" >(custom)</a>
+
+                    </div>
+                </div>
+                <span  class="col col-md-auto" style="padding: 0 !important;">of the following are true:</span>
+            </div>
+
+            <div class="col">
+
+                <table style="border-collapse: collapse;" border="0">
+                <tr *ngFor="let attribute of group.ruleAttributes; let idx = index;" style="padding: 5px;">
+                    <td style="font-weight: bolder;">{{attribute.field}}</td>
+                    <td>
+
+                        <div class="dropdown">
+                            <button  (click)="setWorkingAttribute(idx)" class="btn btn-secondary btn-secondary-plain dropdown-toggle dropdown-toggle-plain" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                {{attribute.comparison}}
+                            </button>
+
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <a class="dropdown-item menu-item-link-no-select" *ngFor="let item of attributeComparisions" (click)="setAttributeComparision(item, $event, idx, groupIndex)" >{{item}}</a>
+                            </div>
+                        </div>
+
+                    </td>
+                    <td>
+                      <div class="row">
+                        <div *ngIf="(attribute.comparison=='equals'||attribute.comparison=='does not equal') && ((attribute.attrType=='string'))" class="form-group">
+                            <input  type="text" id="rule-attribute-value-{{idx}}-{{uid}}">
+                            <label  attr.for="rule-attribute-value-{{idx}}-{{uid}}">Text</label>
+                        </div>
+
+
+                        <div *ngIf="(attribute.comparison=='equals'||attribute.comparison=='does not equal') && ((attribute.attrType==''))" class="form-group">
+                            <label attr.for="rule-attribute-value-{{idx}}-{{uid}}">Value</label>
+                            <input  type="text" id="rule-attribute-value-{{idx}}-{{uid}}">
+
+                        </div>
+
+
+                        <div *ngIf="(attribute.comparison=='equals'||attribute.comparison=='does not equal') && ((attribute.attrType=='coded'))" class="form-group" style="width: 100px;">
+                            <label  attr.for="rule-attribute-value-{{idx}}-{{uid}}">Value</label>
+                            <input type="text" id="rule-attribute-value-{{idx}}-{{uid}}" >
+
+                        </div>
+
+                        <div class="dropdown" *ngIf="(attribute.comparison=='equals'||attribute.comparison=='does not equal') && ((attribute.attrType=='coded'))">
+                            <button type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-secondary btn-secondary-plain dropdown-toggle dropdown-toggle-plain">{{attribute.codeSystem || "Select. . ."}}</button>
+
+                            <ul class="dropdown-menu" style="max-height: 250px;overflow-y:scroll">
+                                <li *ngFor="let item of codeSystems" class="mdl-menu__item" (click)="setCodeSystem(item.label, $event, idx)" >{{item.label}}</li>
+                            </ul>
+                        </div>
+
+
+
+                        <div *ngIf="(attribute.comparison=='equals'||attribute.comparison=='does not equal') && ((attribute.attrType=='int'))" class="form-group">
+                            <label attr.for="rule-attribute-value-{{idx}}-{{uid}}">Number</label>
+                            <input type="text" id="rule-attribute-value-{{idx}}-{{uid}}" pattern="-?[0-9]*(\.[0-9]+)?">
+
+                        </div>
+
+                        <div *ngIf="(attribute.comparison=='equals'||attribute.comparison=='does not equal') && ((attribute.attrType=='float'))" class="form-group">
+                            <label  attr.for="rule-attribute-value-{{idx}}-{{uid}}" >Number</label>
+                            <input  id="rule-attribute-value-{{idx}}-{{uid}}" type="text" pattern="-?[0-9]*(\.[0-9]+)?">
+
+                        </div>
+
+
+                        <div *ngIf="(attribute.comparison=='equals'||attribute.comparison=='does not equal') && ((attribute.attrType=='date'))" class="form-group">
+                            <label  attr.for="rule-attribute-value-{{idx}}-{{uid}}">Date</label>
+                            <input  id="rule-attribute-value-{{idx}}-{{uid}}" type="date" pattern="-?[0-9]*(\.[0-9]+)?" >
+
+                        </div>
+
+
+                        <div *ngIf="attribute.comparison=='is in a value set'" class="dropdown">
+
+                            <button type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-secondary  btn-secondary-plain dropdown-toggle dropdown-toggle-plain">{{attribute.valueSetName.join(", ") || "Select. . ."}}</button>
+
+                            <div aria-labelledby="dropdownMenuButton" class="dropdown-menu" style="width: 500px;min-width: 250px;min-height:100px;max-height: 250px;overflow-y: scroll;">
+                                <input [(ngModel)]="valueSetSearchStr" (keyup)="onValueSetSearchKeyed()" (keyup.enter)="onValueSetSearch()" type="text" style="width: 200px;padding: 5px;font-size: 11pt;margin-bottom: 1em;border-radius: 4px;border: 1px solid silver" placeholder="search. . ."/>
+
+                                <div *ngIf="!showingValueSetSearchResults && !isValueSetSearching">
+                                    <div style="background: #f3f3f3;padding: 5px;">Recently Used Value Sets</div>
+
+                                    <label *ngFor="let item of recentValueSets; let statusIdx = index;" (click)="setValueSetName(item.name, $event, idx)" class="col custom-control custom-checkbox">
+                                        <input type="checkbox" class="custom-control-input">
+                                        <span class="custom-control-indicator"></span>
+                                        <span class="custom-control-description">{{item.name}} <span style="font-size: smaller;color: #999999"> ({{item.code_system}}, {{item.steward}})</span></span>
+
+                                    </label>
+
+
+                                </div>
+
+                                <div *ngIf="showingValueSetSearchResults && !isValueSetSearching">
+                                    <div style="background: #f3f3f3;padding: 5px;">Search Results</div>
+                                    <div  class="" *ngFor="let item of valueSetSearchResults" (click)="setValueSetName(item.name, $event, idx)">
+                                        <span>{{item.name}}</span>
+                                        <span style="font-size: smaller;color: #999999"> ({{item.code_system}}, {{item.steward}})</span>
+                                    </div>
+                                </div>
+
+                                <div *ngIf="isValueSetSearching" class="mdl-spinner mdl-js-spinner is-active"></div>
+
+                            </div>
+                        </div>
+
+
+                        <div class="dropdown">
+                              <button *ngIf="(attribute.comparison=='equals'||attribute.comparison=='does not equal') && (attribute.attrType=='status')"  (click)="setWorkingAttribute(idx)" class="btn btn-secondary btn-secondary-plain dropdown-toggle" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                  {{attribute.attrStatus.join(", ") || "Select. . ."}}
+                              </button>
+
+                              <div class="dropdown-menu col" aria-labelledby="dropdownMenuButton" style="max-height: 250px;overflow-y: scroll;width: 250px;max-width:250px;overflow-x:hidden">
+                                <!--  <a  *ngFor="let item of statusItems" class="dropdown-item"  (click)="setAttrStatus(item.label, $event, idx)" >{{item.label}}</a>
+                                -->
+
+                                  <label *ngFor="let item of statusItems; let statusIdx = index;" (click)="setAttrStatus(item.label, $event, idx, statusIdx, groupIndex)" class="col custom-control custom-checkbox">
+                                      <input type="checkbox" class="custom-control-input" [checked]="attribute.attrStatus.indexOf(item.label) > -1">
+                                      <span class="custom-control-indicator"></span>
+                                      <span class="custom-control-description">{{item.label}}</span>
+                                  </label>
+
+                              </div>
+                        </div>
+
+
+
+                        <div style="display: flex; flex: auto; justify-content: flex-end; ">
+
+                              <button class="btn btn-secondary btn-secondary-plain btn-secondary-plain-round" style="margin-left: 25px;" (click)="removeRuleAttribute(idx, groupIndex)">
+                                  <span style="color:#999999;font-size:12pt;">&times;</span>
+                              </button>
+                        </div>
+
+                      </div>
+                    </td>
+
+                </tr>
+
+                </table>
+
+            </div>
+
+            <div class="row" style="margin-top:1em;">
+
+                <div (click)="getTriggerOptions(group.groupTypeId)"  class="dropdown col">
+                    <button class="btn btn-secondary btn-secondary-plain-round dropdown-toggle dropdown-toggle-plain" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <span style="font-size: 18pt;">+</span>
+                    </button>
+
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+
+                        <a class="dropdown-item menu-item-link-no-select" (click)="addRuleAttribute(item, groupIndex, $event)" *ngFor="let item of currentTriggerOptions">{{item.label}}</a>
+                    </div>
+                </div>
+
+            </div>
+
+            <div><button class="btn btn-secondary">Carry Values Forward. . .</button></div>
+
+
+        </div>
+    </div>
+
+
+<!--
+    <div class="dropdown dropup">
+        <button class="btn btn-secondary"  type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Add Group. . .
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" style="max-height: 300px; overflow-y: scroll;">
+            <a class="dropdown-item"  (click)="addGroup(item, $event)" *ngFor="let item of triggers">{{item.label}}</a>
+        </div>
+    </div>
+-->
+</div>

@@ -1,0 +1,42 @@
+
+
+.ux-numeric-input-component {
+
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+    align-items: center;
+
+    .numeric-inputbox {
+    //    width: 75px;
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+        border-radius: 4px;
+    }
+
+    .ux-btn-round {
+        border-radius: 13px;
+        width:24px;
+        height: 24px;
+        line-height: 24px;
+        font-size: 18pt;
+        padding: 0;
+        text-align: center;
+
+    }
+
+    .btn-warning {
+        border: 1px solid #cb0000;
+    }
+
+
+
+
+
+
+}
+
+
+
+

@@ -1,0 +1,202 @@
+
+[{
+  "id": "bc7a19de-2664-41d9-9927-476331c2c698",
+  "label": "Allergy",
+  "children": [
+    {"label": "Intolerance Type", "dataType":"coded"},
+    {"label": "Recent Start Date", "dataType":"date"},
+    {"label": "Start Date", "dataType":"date"},
+    {"label": "Count", "dataType":"int"},
+    {"label": "Status", "dataType":"status"}
+
+  ]
+}, {
+  "id": "caa8abd4-6ca9-4229-885d-51027bc96f26",
+  "label": "Chief Complaint",
+  "children":[
+    {"label": "Observation Value Code", "dataType":"coded"},
+    {"label": "Start Date", "dataType":"date"},
+    {"label": "Status", "dataType":"status"}
+  ]
+}, {
+  "id": "7c709810-993c-4dd4-881a-69a07b59d99b",
+  "label": "Condition",
+  "children":[
+    {"label": "Observation Value Code", "dataType":"coded"},
+    {"label": "Start Date", "dataType":"date"},
+    {"label": "Status", "dataType":"status"}
+  ]
+}, {
+  "id": "b023abd9-8616-4f81-afcd-e88f6fd3fd38",
+  "label": "Demographics",
+  "children":[
+    {"label": "Women over 65", "dataType":"shorthand"},
+    {"label": "Men over 65", "dataType":"shorthand"},
+    {"label": "Age", "dataType":""},
+    {"label": "Country of Birth", "dataType":""},
+    {"label": "Date of Birth", "dataType":"date"},
+    {"label": "Date of Death", "dataType":"date"},
+    {"label": "Deceased", "dataType":""},
+    {"label": "Gender", "dataType":""},
+    {"label": "Marital Status", "dataType":""},
+    {"label": "Ethnicity", "dataType":""},
+    {"label": "Nationality", "dataType":""},
+    {"label": "Preferred Language", "dataType":""},
+    {"label": "Race", "dataType":""},
+    {"label": "Religious Affiliation", "dataType":""}
+  ]
+}, {
+  "id": "6433e8a2-7f5e-4ea8-8ec2-ecef6076e4a6",
+  "label": "Diagnosis",
+  "children":[
+    {"label": "Observation Value Code", "dataType":"coded"},
+    {"label": "Start Date", "dataType":"date"},
+    {"label": "Status", "dataType":""}
+  ]
+}, {
+  "id": "959b66f5-c95e-4274-a045-79f0dd0a8547",
+  "label": "Encounter",
+  "children":[
+    {"label":""},
+    {"label": "Count", "dataType":"int"},
+    {"label": "Encounter Date", "dataType":"date"},
+    {"label": "Encounter Type", "dataType":"coded"},
+    {"label":"Recent Encounter Date", "dataType":"date"},
+    {"label":"Status", "dataType":""}
+  ]
+}, {
+  "id": "2bba1874-7854-47cb-9b30-141bc7cb9b6f",
+  "label": "Family History",
+  "children":[
+    {"label": "Count", "dataType":"int"},
+    {"label": "Observation Value Code", "dataType":"coded"},
+    {"label": "Recent Start Date", "dataType":"date"},
+    {"label": "Start Date", "dataType":"date"},
+    {"label": "Status", "dataType":""}
+  ]
+}, {
+  "id": "3b59ad9a-f979-4f00-aadf-5edb23a8b149",
+  "label": "Immunization",
+  "children":[
+    {"label": "Status indicates complete", "dataType":"shorthand"},
+    {"label": "Count", "dataType":"int"},
+    {"label": "Administered Date", "dataType":"date"},
+    {"label": "Recent Administered Date", "dataType":"date"},
+    {"label": "Material Type", "dataType":"coded"},
+    {"label": "Product Name", "dataType":"string"},
+    {"label": "Status", "dataType":"status"}
+  ]
+}, {
+  "id": "093bb86b-a395-4da4-94cd-66d3ecfac4f8",
+  "label": "Insurance",
+  "children":[
+    {"label": "Effective Date", "dataType":"date"},
+    {"label": "Expiration Date", "dataType":"date"},
+    {"label": "Insurance Plan Type", "dataType":"coded"},
+    {"label": "Insurance Name", "dataType":"string"}
+  ]
+}, {
+  "id": "b999701e-cacb-4e2e-a2b0-efb9bd6768fb",
+  "label": "Lab Order",
+  "children":[
+    {"label": "Count", "dataType":"int"},
+    {"label": "Lab Test Name", "dataType":"string"},
+    {"label": "Order Date", "dataType":"date"},
+    {"label": "Recent Order Date", "dataType":"date"},
+    {"label": "Test Type", "dataType":"coded"},
+    {"label": "Status", "dataType":"status"}
+  ]
+}, {
+  "id": "55462e7a-809f-46d4-b0b2-f7c7848c30ff",
+  "label": "Lab Result",
+  "children":[
+    {"label": "HbA1C greater than 8", "dataType": "shorthand"},
+    {"label": "Count", "dataType":"int"},
+    {"label": "Maximum Value", "dataType":"float"},
+    {"label": "Minimum Value", "dataType":"float"},
+    {"label": "Result Date", "dataType":"date"},
+    {"label": "Recent Result Date", "dataType":"date"},
+    {"label": "Test Type", "dataType":"coded"},
+    {"label": "Status", "dataType":"status"},
+    {"label": "Value", "dataType":"float"},
+    {"label": "Value As Text", "dataType":"string"}
+  ]
+}, {
+  "id": "f139fc4d-eb4d-4d56-941d-e0a0693a79b7",
+  "label": "Medication",
+  "children":[
+    {"label": "Administration Unit", "dataType":""},
+    {"label": "Approach Site", "dataType":""},
+    {"label": "Count", "dataType":"int"},
+    {"label": "Distinct Active Count", "dataType":""},
+    {"label": "Dose", "dataType":"int"},
+    {"label": "Duration", "dataType":"int"},
+    {"label": "End Date", "dataType":"date"},
+    {"label": "Frequency", "dataType":"int"},
+    {"label": "Material Type", "dataType":""},
+    {"label": "Number of Refills", "dataType":"int"},
+    {"label": "Order Date", "dataType":"date"},
+    {"label": "Recent Active Start Date", "dataType":"date"},
+    {"label": "Recent Start Date", "dataType":"date"},
+    {"label": "Route", "dataType":""},
+    {"label": "Start Date", "dataType":"date"},
+    {"label": "Status", "dataType":"status"}
+  ]
+}, {
+  "id": "54c94584-fc10-4b70-89bf-1e71cc450756",
+  "label": "Problem",
+  "children":[
+    {"label": "Count", "dataType":"int"},
+    {"label": "Problem Type", "dataType":""},
+    {"label": "Observation Value Code", "dataType":"coded"},
+    {"label": "Start Date", "dataType":"date"},
+    {"label": "Recent Start Date", "dataType":"date"},
+    {"label": "Recent Active Start Date", "dataType":"date"},
+    {"label": "Resolved Date", "dataType":"date"},
+    {"label": "Recent Resolved Date", "dataType":"date"},
+    {"label": "Status", "dataType":"status"}
+  ]
+}, {
+  "id": "f87a8da1-d02b-458a-8b27-b54f76b715aa",
+  "label": "Procedure",
+  "children":[
+    {"label": "Count", "dataType":"int"},
+    {"label": "Start Date", "dataType":"date"},
+    {"label": "Recent Start Date", "dataType":"date"},
+    {"label": "Procedure Type", "dataType":"coded"},
+    {"label": "Status", "dataType":"status"}
+  ]
+}, {
+  "id": "0ea5561c-f1bb-4a6a-b4b2-f6a41f05e212",
+  "label": "Social History",
+  "children":[
+    {"label": "Count", "dataType": "int"},
+    {"label": "Observation Value Code", "dataType":""},
+    {"label": "Recent Start Date", "dataType":"date"},
+    {"label": "Start Date", "dataType":"date"},
+    {"label": "Resolved Date", "dataType":"date"},
+    {"label": "Status", "dataType":"status"},
+    {"label": "Travel To", "dataType":"string"}
+  ]
+}, {
+  "id": "c21e331f-3c42-4cc5-a7fe-a8a3809157e4",
+  "label": "Vital Sign",
+  "children":[
+    {"label": "Overweight (BMI)", "dataType":"shorthand"},
+    {"label": "Underweight (BMI)", "dataType":"shorthand"},
+    {"label": "BMI", "dataType":"float"},
+    {"label": "Count", "dataType":"int"},
+    {"label": "Interpretation", "dataType":"string"},
+    {"label": "Maximum Value", "dataType":"float"},
+    {"label": "Minimun Value", "dataType":"float"},
+    {"label": "Recent Result Date", "dataType":"date"},
+    {"label": "Reference Range", "dataType":"string"},
+    {"label": "Result Date", "dataType":"date"},
+    {"label": "Status", "dataType":"status"},
+    {"label": "Unit Modifier", "dataType":""},
+    {"label": "Value", "dataType":"float"},
+    {"label": "Vital Sign Observation Code", "dataType":""},
+    {"label": "Vital Sign Type", "dataType":""},
+    {"label": "Vital Sign Unit", "dataType":""}
+  ]
+}]

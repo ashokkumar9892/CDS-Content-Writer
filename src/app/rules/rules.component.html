@@ -1,0 +1,38 @@
+<h1>
+  {{ title }}
+</h1>
+<p>
+  {{ body }}
+</p>
+<hr/>
+
+<hr/>
+
+<div>
+  <h2 class="text-error">Rules</h2>
+  <!--<ul>-->
+    <!--<li *ngFor="let food of rules">{{food[0]}}</li>-->
+  <!--</ul>-->
+  <span> getApplicationSettings
+  <ul>
+    <li *ngFor="let obj of appsetting">{{obj | json}}</li>
+  </ul>
+  </span>
+  <span> getType
+  <ul>
+    <li *ngFor="let obj of metricalhir">{{obj | json}}</li>
+  </ul>
+  </span>
+
+  <span> getNotification
+  <ul>
+    <li *ngFor="let obj of metricalhir">{{obj | json}}</li>
+  </ul>
+  </span>
+
+  <span> getNotificationCount
+  <ul>
+    <li *ngFor="let obj of notificationcount">{{obj | json}}</li>
+  </ul>
+  </span>
+</div>

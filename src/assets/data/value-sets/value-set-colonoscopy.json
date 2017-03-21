@@ -1,0 +1,4173 @@
+{
+    "$id": "1",
+    "content": {
+        "uniformId": null,
+        "version": null,
+        "metadatahistory": null,
+        "codes": [
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy at bedside",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "183875006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy consultation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "174184006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Diagnostic colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Intraoperative colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "34264006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Intraoperative colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "235151005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Limited colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy in pediatric patient",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy in pediatric patient",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z53.29",
+                "systemId": "ICD10",
+                "displayText": "Colonoscopy refused",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V64.2",
+                "systemId": "ICD9",
+                "displayText": "Colonoscopy refused",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "183944003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy refused",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "444783004",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Screening colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "18746-8",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Colonoscopy study",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy w/snare",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45388",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with ablation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with ablation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with anesthesia",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with anesthesia",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with anoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with anoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with biopsy of colon",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with brushings",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with brushings",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45382",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with coagulation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with coagulation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45393",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with decompression",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446169007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with decompression",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44391",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with electrocoagulation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with electrocoagulation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with enteroscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with gastroscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with gastroscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "311774002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopic polypectomy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with sclerotherapy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45381",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with tattooing",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "447021001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with tattooing",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy and esophagogastroduodenoscopy with anesthesia",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy and esophagogastroduodenoscopy with anesthesia",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy and upper gastrointestinal endoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy and upper gastrointestinal endoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy & polypectomy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Robot-assisted colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45389",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with insertion of colonic stent",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with insertion of colonic stent",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "28023-0",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Colonoscopy study observation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy submucous njx",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "235151005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy to hepatic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "235151005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy w/endoscope US",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy w/endoscopic FNB",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45391",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with imaging guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with imaging guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45388",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with ablation of lesion",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with ablation of lesion",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45388",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with ablation of neoplasm",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with ablation of neoplasm",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45388",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with ablation of polyp",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with ablation of polyp",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with application of clip",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with balloon dilation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with banding of hemorrhoid",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with banding of hemorrhoid",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with biopsy of polyp",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with biopsy of colon in pediatric patient",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with use of bipolar cautery",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with conscious sedation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45382",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with control of hemorrhage",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "18746-8",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Colonoscopy with control of hemorrhage",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with control of hemorrhage",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45393",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with decompression of volvulus",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "18746-8",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Colonoscopy with decompression of volvulus",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "303587008",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with decompression of volvulus",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45386",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with dilation of colon",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "72915000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with dilation of colon",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45386",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with dilation of stricture",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with dilation of stricture",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45391",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with endoscopic ultrasound",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with endoscopic ultrasound",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with fluoroscopic guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with fluoroscopic guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with gastroscopy with biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with gastroscopy with biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with general anesthesia",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with general anesthesia",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "46947",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with hemorrhoidopexy by stapling",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with hemorrhoidopexy by stapling",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45382",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with laser procedure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "416376001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with laser procedure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45380",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with needle biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with needle biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45380",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with polypectomy and biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "311774002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with polypectomy and biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45380",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with random biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with random biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of lesion",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "301698008",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of polyp by snare technique",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45381",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with submucosal injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with submucosal injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45392",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with transendoscopic ultrasound",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with transendoscopic ultrasound",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45391",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with ultrasound of anus",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with ultrasound of anus",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with use of cautery",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45385",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with use of snare",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "301698008",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with use of snare",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy without biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy without biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45391",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with endoscopic ultrasound",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with endoscopic ultrasound",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy for initial 30 minutes",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with specimen collection proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with specimen collection proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "28022-2",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Colonoscopy study observation narrative",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44392",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with surgical removal of polyp",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with surgical removal of polyp",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44388",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Diagnostic colonoscopy through stoma",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Diagnostic colonoscopy through stoma",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44401",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with ablation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with ablation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44389",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "443998000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44391",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with cauterization",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with cauterization",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44391",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with coagulation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with coagulation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44404",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy thru stoma spx",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "28034-7",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Colonoscopy.thru stoma study observation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44388",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Transabdominal colonoscopy via colotomy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "174158000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Transabdominal colonoscopy via colotomy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with biopsy with imaging guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45382",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with application of unipolar cautery",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with application of unipolar cautery",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446362009",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with argon plasma coagulation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45398",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with band ligation of blood vessel",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with band ligation of blood vessel",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45380",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with biopsy if indicated",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with biopsy if indicated",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45381",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with carbon dioxide insufflation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with carbon dioxide insufflation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with confocal laser endomicroscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45393",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with decompression with fluoroscopic guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with decompression with fluoroscopic guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45391",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with diagnostic endoscopic ultrasound",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with diagnostic endoscopic ultrasound",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45386",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with dilation with fluoroscopic guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with dilation with fluoroscopic guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45381",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with directed submucosal injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with directed submucosal injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45390",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with endoscopic mucosal resection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446521004",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with endoscopic mucosal resection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446521004",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with excision of mucosa of colon",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44705",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with fecal microbiota transfer",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "118158008",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with fecal microbiota transfer",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of foreign body",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45334",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with heater probe therapy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with heater probe therapy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45380",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with one or more biopsies",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with one or more biopsies",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45384",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with removal of polyp by hot biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "311774002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of polyp by hot biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of polyp using high frequency electrocautery",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45385",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with polypectomy using snare",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "311774002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with polypectomy using snare",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45398",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with rubber band ligation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with rubber band ligation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45385",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with snare biopsy or excision",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with snare biopsy or excision",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "K91.840",
+                "systemId": "ICD10",
+                "displayText": "Hemorrhage of colon following colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "998.11",
+                "systemId": "ICD9",
+                "displayText": "Hemorrhage of colon following colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "110265006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Hemorrhage of colon following colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy, flexible; with biopsy, single or multiple",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy, flexible; with removal of foreign body(s)",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy, flexible; with transendoscopic balloon dilation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "444783004",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Screening colonoscopy for high risk patient",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "444783004",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Screening colonoscopy for low risk patient",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44401",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with ablation of lesion",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with ablation of lesion",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44401",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with ablation of neoplasm",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with ablation of neoplasm",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with biopsy of polyp",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44391",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with control of bleeding",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "174180002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with control of bleeding",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44388",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with colonic decompression",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446169007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with colonic decompression",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44406",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with endoscopic ultrasonography",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with endoscopic ultrasonography",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44402",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with insertion of stent",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with insertion of stent",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with removal of polyp",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with removal of lesion",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44402",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with insertion of colonic stent",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with insertion of colonic stent",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44394",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with use of snare",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with use of snare",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "28033-9",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Colonoscopy.thru stoma study observation narrative",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45382",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy to splenic flexure with control of bleeding",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "698409004",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy to splenic flexure with control of bleeding",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45389",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with biopsy and insertion of manometry catheter",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with biopsy and insertion of manometry catheter",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "18746-8",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Colonoscopy with control of hemorrhage with imaging guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with control of hemorrhage with imaging guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45393",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with decompression of volvulus with imaging guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "18746-8",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Colonoscopy with decompression of volvulus with imaging guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with decompression of volvulus with imaging guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with esophagogastroduodenoscopy (EGD) with endoscopic variceal ligation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with esophagogastroduodenoscopy (EGD) with endoscopic variceal ligation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45384",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with excision of polyp using cautery",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with excision of polyp using cautery",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45342",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with fine needle aspiration biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with fine needle aspiration biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45381",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with injection of non-sclerosing agent",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with injection of non-sclerosing agent",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of 1 to 2 polyps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45384",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with removal of lesion using cautery",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "49870005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of lesion using cautery",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45385",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with removal of lesion using snare",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "174171002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of lesion using snare",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45384",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with removal of neoplasm using forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of neoplasm using forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45384",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with removal of tumor using cautery",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of tumor using cautery",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with rigid sigmoidoscope through colotomy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "12350003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with rigid sigmoidoscope through colotomy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45392",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy and fine needle aspiration with ultrasound guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy and fine needle aspiration with ultrasound guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45380",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with biopsy proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "25732003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with biopsy proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy, flexible; with control of bleeding, any method",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Screen colonoscopy for non-high risk patient",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "444783004",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Screen colonoscopy for non-high risk patient",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44390",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with removal of foreign body",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "302051002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with removal of foreign body",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44394",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with removal of lesion using snare technique",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "174171002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with removal of lesion using snare technique",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44391",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with argon plasma coagulation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with argon plasma coagulation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma; with biopsy, single or multiple",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44404",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with directed submucosal injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with directed submucosal injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44394",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with removal of neoplasm or polyp",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with removal of neoplasm or polyp",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44389",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with one or more biopsies",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with one or more biopsies",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma; with removal of foreign body(s)",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44402",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with transendoscopic stent placement",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "103716009",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with transendoscopic stent placement",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44394",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with removal of tumor using snare technique",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "174171002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with removal of tumor using snare technique",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with biopsy using bipolar biopsy forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45384",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with biopsy using hot biopsy forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with biopsy using hot biopsy forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45382",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with control of bleeding using loop ligation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with control of bleeding using loop ligation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45382",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with control of bleeding using placement of clip",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with control of bleeding using placement of clip",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45392",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with endoscopic fine needle aspiration biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with endoscopic fine needle aspiration biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with esophagogastroduodenoscopy (EGD) with insertion of wireless pH monitoring device in lower esophagus",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with esophagogastroduodenoscopy (EGD) with insertion of wireless pH monitoring device in lower esophagus",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with excision of polyp under conscious sedation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45384",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with removal of neoplasm or polyp using forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of neoplasm or polyp using forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45379",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with removal of foreign body with imaging guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of foreign body with imaging guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45380",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with removal of lesion using cold biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of lesion using cold biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45385",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with removal of polyp using snare technique",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "311774002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of polyp using snare technique",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45385",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with removal of tumor using snare technique",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of tumor using snare technique",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44388",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Diagnostic colonoscopy through stoma with collection of specimen by brushing",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Diagnostic colonoscopy through stoma with collection of specimen by brushing",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44388",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Diagnostic colonoscopy through stoma with collection of specimen by washing",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Diagnostic colonoscopy through stoma with collection of specimen by washing",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45392",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy proximal to splenic flexure with removal of lesion",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy proximal to splenic flexure with removal of lesion",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45391",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with endoscopic ultrasound examination proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with endoscopic ultrasound examination proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45382",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with control of bleeding proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with control of bleeding proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45393",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with colon decompression proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with colon decompression proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma; with control of bleeding, any method",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44403",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with endoscopic surgical removal of mucosa",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with endoscopic surgical removal of mucosa",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44392",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with surgical removal of polyp using hot biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with surgical removal of polyp using hot biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44392",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with removal of neoplasm using forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with removal of neoplasm using forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with biopsy of colon with removal of polyp by snare technique",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with esophagoscopic insertion of wireless pH monitoring capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with esophagoscopic insertion of wireless pH monitoring capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45392",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with fine needle aspiration with endoscopic ultrasound guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with fine needle aspiration with endoscopic ultrasound guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with fluoroscopic assistance for less than 60 minutes",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with fluoroscopic assistance for less than 60 minutes",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with fluoroscopic guidance lasting over one hour",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with fluoroscopic guidance lasting over one hour",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45385",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy with removal of neoplasm or polyp using snare technique",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy with removal of neoplasm or polyp using snare technique",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45386",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with balloon dilation of stricture proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with balloon dilation of stricture proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45385",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with removal of tumor using snare technique proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with removal of tumor using snare technique proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45381",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with directed submucosal injection of substance proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with directed submucosal injection of substance proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45389",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with transendoscopic stent placement proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with transendoscopic stent placement proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45379",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with removal of foreign body proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with removal of foreign body proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44392",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with biopsy using hot biopsy forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "443998000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with biopsy using hot biopsy forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44391",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with control of bleeding using clip device",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with control of bleeding using clip device",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44394",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with removal of polyp using snare technique",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "174171002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with removal of polyp using snare technique",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44391",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with control of bleeding using bipolar coagulation probe",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with control of bleeding using bipolar coagulation probe",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44392",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with removal of lesion using hot biopsy forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with removal of lesion using hot biopsy forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy using CO2 insufflation with submucosal dissection and laparoscopic colectomy if indicated",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45392",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with transendoscopic ultrasound guided intramural fine needle aspiration proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with transendoscopic ultrasound guided intramural fine needle aspiration proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45392",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with transendoscopic ultrasound guided transmural fine needle aspiration proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with transendoscopic ultrasound guided transmural fine needle aspiration proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44407",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Colonoscopy through stoma with intramural or transmural fine needle aspiration or biopsy with endoscopic ultrasound guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "8180007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Colonoscopy through stoma with intramural or transmural fine needle aspiration or biopsy with endoscopic ultrasound guidance",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "R93.3",
+                "systemId": "ICD10",
+                "displayText": "Abnormal colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "793.4",
+                "systemId": "ICD9",
+                "displayText": "Abnormal colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "313172000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Abnormal colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "310634005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Check colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Imaging guidance for flexible colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "313170008",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Normal colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "410538000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Schedule colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "303587008",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Therapeutic colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Total colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "235150006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Total colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "418714002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Virtual colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45380",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Diagnostic colonoscopy with biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "174184006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Diagnostic colonoscopy with biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45380",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "446745002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45388",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with ablation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with ablation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44799",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Diagnostic virtual colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "418714002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Diagnostic virtual colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "74263",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Screening virtual colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "418714002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Screening virtual colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "74262",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Computed tomography colonography with contrast",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "425666002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Computed tomography colonography with contrast",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Diagnostic colonoscopy excluding ileum",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "174184006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Diagnostic colonoscopy excluding ileum",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45398",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Diagnostic colonoscopy with band ligation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "174184006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Diagnostic colonoscopy with band ligation",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45382",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with control of bleeding",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with control of bleeding",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "74261",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Computed tomography colonography without contrast",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44120-4",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Computed tomography colonography without contrast",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "425666002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Computed tomography colonography without contrast",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45379",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with removal of foreign body",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "174181003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with removal of foreign body",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45384",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy using hot biopsy forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy using hot biopsy forceps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with endoscopic ultrasound and fine needle aspiration",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45385",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Flexible colonoscopy with removal of polyp using snare technique proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flexible colonoscopy with removal of polyp using snare technique proximal to splenic flexure",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "00810",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Anesthesia for colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "14850008",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Anesthesia for colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "223455001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Assist with colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "43235",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Esophagogastroduodenoscopy (EGD) with colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "76009000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Esophagogastroduodenoscopy (EGD) with colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "43260",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Endoscopic retrograde cholangiopancreatography (ERCP) with colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "386718000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Endoscopic retrograde cholangiopancreatography (ERCP) with colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z98.89",
+                "systemId": "ICD10",
+                "displayText": "History of colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V45.89",
+                "systemId": "ICD9",
+                "displayText": "History of colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "851000119109",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "History of colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "73761001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Computer-assisted colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z98.89",
+                "systemId": "ICD10",
+                "displayText": "History of colonoscopy with polypectomy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V45.89",
+                "systemId": "ICD9",
+                "displayText": "History of colonoscopy with polypectomy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "416940007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "History of colonoscopy with polypectomy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "45378",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Open access colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "174158000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Open access colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z98.89",
+                "systemId": "ICD10",
+                "displayText": "Status post colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V45.89",
+                "systemId": "ICD9",
+                "displayText": "Status post colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "416940007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Status post colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "67166-9",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Sigmoidoscopy or colonoscopy [phenx]",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "74262",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Diagnostic virtual colonoscopy with contrast",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "21339000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Diagnostic virtual colonoscopy with contrast",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "43235",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Esophagogastroduodenoscopy (EGD) with colonoscopy in operating room",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "76009000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Esophagogastroduodenoscopy (EGD) with colonoscopy in operating room",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z98.89",
+                "systemId": "ICD10",
+                "displayText": "Status post colonoscopy with polypectomy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V45.89",
+                "systemId": "ICD9",
+                "displayText": "Status post colonoscopy with polypectomy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "19585003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Status post colonoscopy with polypectomy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "74261",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Diagnostic virtual colonoscopy without contrast",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "21339000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Diagnostic virtual colonoscopy without contrast",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "223464006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Education about colonoscopy by gastrointestinal specialist",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z12.11",
+                "systemId": "ICD10",
+                "displayText": "Encounter for colonoscopy due to history of colon cancer",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V76.51",
+                "systemId": "ICD9",
+                "displayText": "Encounter for colonoscopy due to history of colon cancer",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308273005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Encounter for colonoscopy due to history of colon cancer",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z12.11",
+                "systemId": "ICD10",
+                "displayText": "Encounter for colonoscopy due to history of colonic polyp",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V76.51",
+                "systemId": "ICD9",
+                "displayText": "Encounter for colonoscopy due to history of colonic polyp",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308273005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Encounter for colonoscopy due to history of colonic polyp",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z09",
+                "systemId": "ICD10",
+                "displayText": "Encounter for colonoscopy following colon polyp removal",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V67.09",
+                "systemId": "ICD9",
+                "displayText": "Encounter for colonoscopy following colon polyp removal",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308273005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Encounter for colonoscopy following colon polyp removal",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z09",
+                "systemId": "ICD10",
+                "displayText": "Encounter for colonoscopy following surgery for colon cancer",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V67.09",
+                "systemId": "ICD9",
+                "displayText": "Encounter for colonoscopy following surgery for colon cancer",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308273005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Encounter for colonoscopy following surgery for colon cancer",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z09",
+                "systemId": "ICD10",
+                "displayText": "Encounter for colonoscopy following surgery for rectal cancer",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V67.09",
+                "systemId": "ICD9",
+                "displayText": "Encounter for colonoscopy following surgery for rectal cancer",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308273005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Encounter for colonoscopy following surgery for rectal cancer",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z12.11",
+                "systemId": "ICD10",
+                "displayText": "Encounter for colonoscopy due to history of adenomatous colonic polyps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V76.51",
+                "systemId": "ICD9",
+                "displayText": "Encounter for colonoscopy due to history of adenomatous colonic polyps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308273005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Encounter for colonoscopy due to history of adenomatous colonic polyps",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z12.11",
+                "systemId": "ICD10",
+                "displayText": "Encounter for screening colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V76.51",
+                "systemId": "ICD9",
+                "displayText": "Encounter for screening colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "243876005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Encounter for screening colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "414925007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Obtain consent for colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "3457005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Referral for screening colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z71.89",
+                "systemId": "ICD10",
+                "displayText": "Encounter to discuss colonoscopy results",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V65.49",
+                "systemId": "ICD9",
+                "displayText": "Encounter to discuss colonoscopy results",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "443913008",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Encounter to discuss colonoscopy results",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "370858005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Implement preparation for colonoscopy protocol",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "223464006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Education about post colonoscopy discharge",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "414925007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Obtain consent for colonoscopy with polypectomy and biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "R19.4",
+                "systemId": "ICD10",
+                "displayText": "Encounter for diagnostic colonoscopy due to change in bowel habits",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "787.99",
+                "systemId": "ICD9",
+                "displayText": "Encounter for diagnostic colonoscopy due to change in bowel habits",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308273005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Encounter for diagnostic colonoscopy due to change in bowel habits",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z12.11",
+                "systemId": "ICD10",
+                "displayText": "Encounter for screening colonoscopy for non-high-risk patient",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V76.51",
+                "systemId": "ICD9",
+                "displayText": "Encounter for screening colonoscopy for non-high-risk patient",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "243876005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Encounter for screening colonoscopy for non-high-risk patient",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "183875006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Referral to service for colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "422424000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Education about scheduling a colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "44140",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Right colectomy with intraoperative colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "359571009",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Right colectomy with intraoperative colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "67172-7",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Adenomas on sigmoidoscopy or colonoscopy [phenx]",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "998.2",
+                "systemId": "ICD9",
+                "displayText": "Perforation of colon as colonoscopy complication",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "56905009",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Perforation of colon as colonoscopy complication",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "367535003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Endoscopic ultrasound guidance for flexible colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "445982009",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Esophagogastroduodenoscopy (EGD) with biopsy with colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "43249",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Esophagogastroduodenoscopy (EGD) with dilatation with colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "76009000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Esophagogastroduodenoscopy (EGD) with dilatation with colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "43239",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Esophagogastroduodenoscopy (EGD) with biopsy with colonoscopy with biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "445982009",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Esophagogastroduodenoscopy (EGD) with biopsy with colonoscopy with biopsy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "67223-8",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Initial reasons you had a colonoscopy or sigmoidoscopy [phenx]",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "414925007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Obtain consent for esophagogastroduodenoscopy (EGD) with colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "Z80.0",
+                "systemId": "ICD10",
+                "displayText": "Family history of colon cancer requiring screening colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "V16.0",
+                "systemId": "ICD9",
+                "displayText": "Family history of colon cancer requiring screening colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "312824007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Family history of colon cancer requiring screening colonoscopy",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "169072007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Computed tomography of whole body with virtual colonoscopy and computed tomography of brain",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "67221-2",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "In the past 2y have you had a colonoscopy [phenx]",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "67220-4",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "In the past 2y, have you had a virtual CT colonoscopy [phenx]",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            }
+        ]
+    },
+    "id": 996,
+    "name": "Colonoscopy",
+    "normalizedName": null,
+    "owner": {
+        "userId": 0,
+        "userName": null,
+        "firstName": null,
+        "lastName": null,
+        "clientId": "0",
+        "isPublisher": false
+    },
+    "parent": {
+        "$id": "2",
+        "childCount": 0,
+        "children": [],
+        "isCurrentUsersHome": false,
+        "id": 1319,
+        "name": null,
+        "normalizedName": null,
+        "owner": null,
+        "parent": null,
+        "createdDate": "0001-01-01T00:00:00",
+        "updatedDate": "0001-01-01T00:00:00",
+        "isFolderType": true,
+        "isOpen": false,
+        "isHome": false,
+        "inUse": null,
+        "type": 0,
+        "isAtp": false,
+        "isNLM": false,
+        "valueSetNameTermUID": null,
+        "uniformId": null,
+        "createdByUser": null,
+        "updatedByUser": null,
+        "retired": false,
+        "content": null
+    },
+    "createdDate": "2015-04-02T17:41:24.71",
+    "updatedDate": "2016-10-10T15:02:23.517",
+    "isFolderType": false,
+    "isOpen": true,
+    "isHome": false,
+    "inUse": [
+        {
+            "id": 44421,
+            "name": "my first knowledge module",
+            "label": "Todd.Eischeid",
+            "description": "2016-10-10T15:02:23.362",
+            "isVisible": false
+        }
+    ],
+    "type": 2,
+    "isAtp": false,
+    "isNLM": false,
+    "valueSetNameTermUID": null,
+    "uniformId": null,
+    "createdByUser": null,
+    "updatedByUser": "Todd.Eischeid",
+    "retired": false
+}

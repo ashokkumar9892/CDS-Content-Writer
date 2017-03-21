@@ -1,0 +1,81 @@
+[
+{"id":"1","label":"Active"}
+,
+{"id":"2","label":"Acute"}
+,
+{"id":"3","label":"Administered"}
+,
+{"id":"4","label":"Admin Requested"}
+,
+{"id":"5","label":"Adverse Reaction"}
+,
+{"id":"6","label":"Assumed Resolved"}
+,
+{"id":"7","label":"Auto Complete"}
+,
+{"id":"8","label":"Canceled"}
+,
+{"id":"9","label":"Chronic"}
+,
+{"id":"10","label":"Complete"}
+,
+{"id":"11","label":"Completed"}
+,
+{"id":"12","label":"DC"}
+,
+{"id":"13","label":"Deleted"}
+,
+{"id":"14","label":"Denied"}
+,
+{"id":"15","label":"Discontinued"}
+,
+{"id":"16","label":"Entered in Error"}
+,
+{"id":"17","label":"Error"}
+,
+{"id":"18","label":"Filled Rx"}
+,
+{"id":"19","label":"Final"}
+,
+{"id":"20","label":"Final, Reviewed"}
+,
+{"id":"21","label":"Held"}
+,
+{"id":"22","label":"Inactive"}
+,
+{"id":"23","label":"No Longer Active"}
+,
+{"id":"24","label":"Ordered"}
+,
+{"id":"25","label":"Other"}
+,
+{"id":"26","label":"Partial"}
+,
+{"id":"27","label":"Pending"}
+,
+{"id":"28","label":"Permanent"}
+,
+{"id":"29","label":"Prior History"}
+,
+{"id":"30","label":"Refill Denied"}
+,
+{"id":"31","label":"Refill Requested"}
+,
+{"id":"32","label":"Rejected"}
+,
+{"id":"33","label":"Resolved"}
+,
+{"id":"34","label":"Suspect"}
+,
+{"id":"35","label":"Temporary"}
+,
+{"id":"36","label":"Transformed"}
+,
+{"id":"37","label":"Transitioned"}
+,
+{"id":"38","label":"Unauthorized"}
+,
+{"id":"39","label":"Unverified"}
+,
+{"id":"40","label":"Void"}
+]

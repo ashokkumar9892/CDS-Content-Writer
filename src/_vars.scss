@@ -1,0 +1,144 @@
+
+/***************************************************************
+  Allscripts UX Common Palette
+  created by Todd Eischeid
+***************************************************************/
+
+
+$ux-blue-1: #d6ecee;
+$ux-blue-2: #c0e0e2;
+$ux-blue-3: #007d8a;
+$ux-blue-4: #045360;
+
+$ux-red: #cb0000;
+$ux-green: #7ab800;
+$ux-orange: #f79225;
+
+$ux-grayscale-1: #f2f2f2;
+$ux-grayscale-2: #e3e3e3;
+$ux-grayscale-3: #cccccc;
+$ux-grayscale-4: #999999;
+$ux-grayscale-5: #666666;
+$ux-grayscale-6: #464646;
+$ux-grayscale-7: #333333;
+
+/*
+$ux-blue-blend-1: color-stops(#ffffff, #c0e0e2);
+$ux-gray-blend-2: color-stops(#ffffff, #f2f2f2);
+$ux-red-blend-1: color-stops(#cb0000, #980000);
+$ux-orange-blend-1: color-stops(#f79225, #d86c00);
+$ux-orange-blend-2: color-stops(#ffcb33, #ff9833);
+$ux-gray-blend-1: color-stops(#ffffff, #cccccc);
+$ux-gray-blend-3: color-stops(rgba(0,0,0,0.0), rgba(0,0,0, 0.2), rgba(0,0,0,0.0));
+$ux-gray-blend-4: color-stops(#666666, #333333);
+
+$all-grays: #f2f2f2, #e3e3e3, #cccccc, #999999, #666666, #464646, #333333;
+$all-blues: #d6ecee, #c0e0e2, #007d8a, #045360;
+$all-blends: $ux-blue-blend-1, $ux-gray-blend-1, $ux-gray-blend-2, $ux-gray-blend-3, $ux-gray-blend-4, $ux-red-blend-1, $ux-orange-blend-1, $ux-orange-blend-2;
+*/
+
+.ux-product-name {
+  font-size: 25pt;
+  color: $ux-blue-3;
+  text-shadow: 0 2px 0 #ffffff;
+}
+
+.ux-dialog-header {
+  font-weight: bold;
+  color: $ux-blue-3;
+}
+
+.ux-label {
+  font-weight: normal;
+  color: $ux-grayscale-5;
+  font-size: 11pt;
+}
+
+.ux-hint {
+  font-style: italic;
+  font-size: 12pt;
+  color: $ux-grayscale-4;
+}
+
+.ux-label-smaller {
+  font-style: normal;
+  font-size: smaller;
+  color: $ux-grayscale-4;
+}
+
+
+.ux-link, .ux-emphasis {
+  color: $ux-blue-3;
+}
+
+.ux-table-header {
+  font-size: 11pt;
+  color: $ux-grayscale-5;
+
+}
+
+.ux-patient-banner {
+  background: $ux-grayscale-7;
+
+  background: $ux-grayscale-5; /* Old browsers */
+  background: -moz-linear-gradient(top, $ux-grayscale-5 0%, $ux-grayscale-7 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, $ux-grayscale-5 0%,$ux-grayscale-7 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, $ux-grayscale-5 0%,$ux-grayscale-7 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', endColorstr='#333333',GradientType=0 ); /* IE6-9 */
+
+  color: white;
+  padding-left:10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+
+.ux-patient-last-name {
+  text-transform:uppercase;
+  color: white;
+  font-weight: bold;
+  font-size: 16pt;
+}
+
+.ux-patient-first-name {
+  color: white;
+  font-weight: normal;
+  font-size: 16pt;
+}
+
+.ux-patient-suffix {
+  font-size: 14pt;
+  color: white;
+}
+
+
+.ux-patient-demographic {
+  font-size: 12pt;
+  color: white;
+}
+
+.ux-patient-demographic-label {
+  font-size: 10pt;
+  color: $ux-grayscale-3;
+}
+
+.ux-patient-demographic-section-header {
+  font-size: 12pt;
+  color: $ux-grayscale-3;
+}
+
+
+
+
+
+/****************************************************************/
+
+/* prevent text selection and text cursor */
+@mixin no-select {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}

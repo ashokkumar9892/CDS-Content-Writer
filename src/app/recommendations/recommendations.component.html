@@ -1,0 +1,34 @@
+
+<div class="container-fluid" style="padding: 0 !important;">
+<div class="row" style="flex-wrap: wrap;padding: 20px;">
+
+  <div  style="width:240px;border: 2px dashed silver;border-radius: 4px;padding: 10px;margin: 10px; cursor:pointer;">
+    <div style="text-align: center;margin-top: 2em;color: #666666">Add. . .</div>
+  </div>
+
+
+  <div *ngFor="let item of recommendations" class="item-card">
+    <a routerLink="/recommend/{{item.id}}" routerLinkActive="active"  (click)="setRecommendation(item)" style="" class="nav-link">
+
+      <div style="line-height: 1.2em;">
+        <div>{{item.title}}</div>
+        <div style="color:#acacac;margin-top:0.5em;font-size: smaller;">modified 3 weeks ago (13 Sep 2016)</div>
+      </div>
+    </a>
+  </div>
+
+  <div *ngFor="let item of testArray" class="item-card">
+  <a  routerLinkActive="active"  style="" class="nav-link">
+
+    <div class="col" style="line-height: 1.2em;">
+      <div>{{item}}</div>
+      <div style="color:#acacac;margin-top:0.5em;font-size: smaller;">modified 3 weeks ago (13 Sep 2016)</div>
+    </div>
+  </a>
+</div>
+
+
+</div>
+
+</div>
+

@@ -1,0 +1,16 @@
+<h1>
+  {{ title }}
+</h1>
+<p>
+  {{ body }}
+</p>
+<hr/>
+
+<hr/>
+
+<div>
+  <h2 class="text-error">Rules</h2>
+  <ul>
+    <li *ngFor="let food of rules">{{food.name}}</li>
+  </ul>
+</div>

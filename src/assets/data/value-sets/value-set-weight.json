@@ -1,0 +1,148 @@
+{
+    "$id": "1",
+    "content": {
+        "uniformId": "9bad0034-413c-4279-8460-a9a5846a1426",
+        "version": null,
+        "metadatahistory": [],
+        "codes": [
+            {
+                "id": "18833-4",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "First Body weight",
+                "autoId": 16359,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "16359"
+            },
+            {
+                "id": "29463-7",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Body weight",
+                "autoId": 16360,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "16360"
+            },
+            {
+                "id": "3141-9",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Body weight Measured",
+                "autoId": 16361,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "16361"
+            },
+            {
+                "id": "3142-7",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Body weight Stated",
+                "autoId": 16362,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "16362"
+            },
+            {
+                "id": "8350-1",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Body weight Measured --with clothes",
+                "autoId": 16363,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "16363"
+            },
+            {
+                "id": "8351-9",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Body weight Measured --without clothes",
+                "autoId": 16364,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "16364"
+            },
+            {
+                "id": "8341-0",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Dry body weight Measured",
+                "autoId": 16365,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "16365"
+            },
+            {
+                "id": "8349-3",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.4",
+                "displayText": "Body weight Measured --pre surgery",
+                "autoId": 16366,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "16366"
+            }
+        ]
+    },
+    "id": 33957,
+    "name": "Weight",
+    "normalizedName": null,
+    "owner": {
+        "userId": 1039393,
+        "userName": "A.Shirur",
+        "firstName": null,
+        "lastName": null,
+        "clientId": "0123",
+        "isPublisher": false
+    },
+    "parent": {
+        "$id": "2",
+        "childCount": 0,
+        "children": [],
+        "isCurrentUsersHome": false,
+        "id": 33899,
+        "name": null,
+        "normalizedName": null,
+        "owner": null,
+        "parent": null,
+        "createdDate": "0001-01-01T00:00:00",
+        "updatedDate": "0001-01-01T00:00:00",
+        "isFolderType": true,
+        "isOpen": false,
+        "isHome": false,
+        "inUse": null,
+        "type": 0,
+        "isAtp": false,
+        "isNLM": false,
+        "valueSetNameTermUID": null,
+        "uniformId": null,
+        "createdByUser": null,
+        "updatedByUser": null,
+        "retired": false,
+        "content": null
+    },
+    "createdDate": "2016-09-06T16:21:36.74",
+    "updatedDate": "2016-10-24T09:05:56.347",
+    "isFolderType": false,
+    "isOpen": true,
+    "isHome": false,
+    "inUse": [
+        {
+            "id": 33953,
+            "name": "NQF0024",
+            "label": null,
+            "description": null,
+            "isVisible": false
+        },
+        {
+            "id": 44421,
+            "name": "my first knowledge module",
+            "label": "Todd.Eischeid",
+            "description": "2016-10-24T09:05:56.652",
+            "isVisible": false
+        }
+    ],
+    "type": 2,
+    "isAtp": false,
+    "isNLM": false,
+    "valueSetNameTermUID": null,
+    "uniformId": "9bad0034-413c-4279-8460-a9a5846a1426",
+    "createdByUser": "A.Shirur",
+    "updatedByUser": "Todd.Eischeid",
+    "retired": false
+}

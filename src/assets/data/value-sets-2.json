@@ -1,0 +1,67 @@
+[
+{"id":"1","label":"Malignant Neoplasm of the Colon"}
+,
+{"id":"2","label":"Colonoscopy"}
+,
+{"id":"3","label":"Total Colectomy"}
+,
+{"id":"4","label":"Flexible Sigmoidoscopy"}
+,
+{"id":"5","label":"Fecal Occult Blood Test"}
+,
+{"id":"6","label":"Colonoscopy through stoma"}
+,
+{"id":"7","label":"Palliative Care"}
+,
+{"id":"8","label":"pregnancy diagnosis, pregnancy"}
+,
+{"id":"9","label":"Medical Reason Not Done"}
+,
+{"id":"10","label":"Patient Reason Not Done"}
+,
+{"id":"11","label":"BMI LOINC Value"}
+,
+{"id":"12","label":"BMI-Height"}
+,
+{"id":"13","label":"BMI-Weight"}
+,
+{"id":"14","label":"BMI- Above Normal Follow-up"}
+,
+{"id":"15","label":"BMI- Above normal referral"}
+,
+{"id":"16","label":"BMI-Above normal medications"}
+,
+{"id":"17","label":"BMI- Below normal follow up"}
+,
+{"id":"18","label":"BMI-Below normal referral"}
+,
+{"id":"19","label":"BMI- Below normal medications"}
+,
+{"id":"20","label":"Ischemic Vascular Disease (IVD)"}
+,
+{"id":"21","label":"Acute Myocardial Infarction (AMI)"}
+,
+{"id":"22","label":"Percutaneous Coronary Interventions (PCIs)"}
+,
+{"id":"23","label":"Coronary Artery Bypass Graft (CABG)"}
+,
+{"id":"24","label":"Aspirin (and other antithrombotics)"}
+,
+{"id":"25","label":"Aspirin"}
+,
+{"id":"26","label":"Other Antithrombotics"}
+,
+{"id":"27","label":"Tobacco Non-User"}
+,
+{"id":"28","label":"Tobacco User"}
+,
+{"id":"29","label":"Tobacco Use Cessation (TUC) Counseling"}
+,
+{"id":"30","label":"Tobacco Use Cessation (TUC) Pharmacotherapy"}
+,
+{"id":"31","label":"Limited Life Expectancy"}
+,
+{"id":"32","label":"Medical reason - Tobacco Use Screening"}
+,
+{"id":"33","label":"Tobacco Use Screening"}
+]

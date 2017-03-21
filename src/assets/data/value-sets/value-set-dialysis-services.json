@@ -1,0 +1,553 @@
+{
+    "$id": "1",
+    "content": {
+        "uniformId": "517a3f46-2f61-4e58-9417-6136cdf70ceb",
+        "version": null,
+        "metadatahistory": [],
+        "codes": [
+            {
+                "id": "108241001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Dialysis procedure procedure",
+                "autoId": 13217,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13217"
+            },
+            {
+                "id": "10848006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Removal of peritoneal dialysis catheter procedure",
+                "autoId": 13218,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13218"
+            },
+            {
+                "id": "11932001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Stabilizing hemodialysis procedure",
+                "autoId": 13219,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13219"
+            },
+            {
+                "id": "14684005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Peritoneal dialysis excluding cannulation procedure",
+                "autoId": 13220,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13220"
+            },
+            {
+                "id": "180273006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Removal of chronic ambulatory peritoneal dialysis catheter procedure",
+                "autoId": 13221,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13221"
+            },
+            {
+                "id": "225230008",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Chronic peritoneal dialysis procedure",
+                "autoId": 13222,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13222"
+            },
+            {
+                "id": "225231007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Stab peritoneal dialysis procedure",
+                "autoId": 13223,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13223"
+            },
+            {
+                "id": "233575001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Intermittent hemodialysis procedure",
+                "autoId": 13224,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13224"
+            },
+            {
+                "id": "233576000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Intermittent hemodialysis with sequential ultrafiltration procedure",
+                "autoId": 13225,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13225"
+            },
+            {
+                "id": "233577009",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Intermittent hemodialysis with continuous ultrafiltration procedure",
+                "autoId": 13226,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13226"
+            },
+            {
+                "id": "233578004",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Continuous hemodialysis procedure",
+                "autoId": 13227,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13227"
+            },
+            {
+                "id": "233579007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Continuous arteriovenous hemodialysis procedure",
+                "autoId": 13228,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13228"
+            },
+            {
+                "id": "233580005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Continuous venovenous hemodialysis procedure",
+                "autoId": 13229,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13229"
+            },
+            {
+                "id": "233581009",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Hemofiltration procedure",
+                "autoId": 13230,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13230"
+            },
+            {
+                "id": "233582002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Intermittent hemofiltration procedure",
+                "autoId": 13231,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13231"
+            },
+            {
+                "id": "233583007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Continuous hemofiltration procedure",
+                "autoId": 13232,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13232"
+            },
+            {
+                "id": "233584001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Continuous arteriovenous hemofiltration procedure",
+                "autoId": 13233,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13233"
+            },
+            {
+                "id": "233585000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Continuous venovenous hemofiltration procedure",
+                "autoId": 13234,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13234"
+            },
+            {
+                "id": "233586004",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Hemodiafiltration procedure",
+                "autoId": 13235,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13235"
+            },
+            {
+                "id": "233587008",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Intermittent hemodiafiltration procedure",
+                "autoId": 13236,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13236"
+            },
+            {
+                "id": "233588003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Continuous hemodiafiltration procedure",
+                "autoId": 13237,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13237"
+            },
+            {
+                "id": "233589006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Continuous arteriovenous hemodiafiltration procedure",
+                "autoId": 13238,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13238"
+            },
+            {
+                "id": "233590002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Continuous venovenous hemodiafiltration procedure",
+                "autoId": 13239,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13239"
+            },
+            {
+                "id": "238316008",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Aspiration of chronic ambulatory peritoneal dialysis catheter procedure",
+                "autoId": 13240,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13240"
+            },
+            {
+                "id": "238317004",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Flushing of chronic ambulatory peritoneal dialysis catheter procedure",
+                "autoId": 13241,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13241"
+            },
+            {
+                "id": "238318009",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Continuous ambulatory peritoneal dialysis procedure",
+                "autoId": 13242,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13242"
+            },
+            {
+                "id": "238319001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Continuous cycling peritoneal dialysis procedure",
+                "autoId": 13243,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13243"
+            },
+            {
+                "id": "238321006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Intermittent peritoneal dialysis procedure",
+                "autoId": 13244,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13244"
+            },
+            {
+                "id": "238322004",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Tidal peritoneal dialysis procedure",
+                "autoId": 13245,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13245"
+            },
+            {
+                "id": "238323009",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Night-time intermittent peritoneal dialysis procedure",
+                "autoId": 13246,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13246"
+            },
+            {
+                "id": "265764009",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Renal dialysis procedure",
+                "autoId": 13247,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13247"
+            },
+            {
+                "id": "288182009",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Extracorporeal kidney procedure",
+                "autoId": 13248,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13248"
+            },
+            {
+                "id": "302497006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Hemodialysis procedure",
+                "autoId": 13249,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13249"
+            },
+            {
+                "id": "34897002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Hemodialysis, maintenance in hospital procedure",
+                "autoId": 13250,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13250"
+            },
+            {
+                "id": "427053002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Extracorporeal albumin hemodialysis procedure",
+                "autoId": 13251,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13251"
+            },
+            {
+                "id": "428648006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Automated peritoneal dialysis procedure",
+                "autoId": 13252,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13252"
+            },
+            {
+                "id": "439278006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Measurement of static venous pressure in hemodialysis vascular access procedure",
+                "autoId": 13253,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13253"
+            },
+            {
+                "id": "439976001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Measurement of recirculation in hemodialysis vascular access procedure",
+                "autoId": 13254,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13254"
+            },
+            {
+                "id": "57274006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Initial hemodialysis procedure",
+                "autoId": 13255,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13255"
+            },
+            {
+                "id": "676002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Peritoneal dialysis including cannulation procedure",
+                "autoId": 13256,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13256"
+            },
+            {
+                "id": "67970008",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Hemodialysis, maintenance at home procedure",
+                "autoId": 13257,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13257"
+            },
+            {
+                "id": "68341005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Hemodialysis, supervision at home procedure",
+                "autoId": 13258,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13258"
+            },
+            {
+                "id": "71192002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Peritoneal dialysis procedure",
+                "autoId": 13259,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13259"
+            },
+            {
+                "id": "90920",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "End-stage renal disease ESRD related services per full month; for patients between twelve and nineteen years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",
+                "autoId": 13260,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13260"
+            },
+            {
+                "id": "90921",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "End-stage renal disease ESRD related services per full month; for patients twenty years of age and over",
+                "autoId": 13261,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13261"
+            },
+            {
+                "id": "90924",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "End-stage renal disease ESRD related services less than full month, per day; for patients between twelve and nineteen years of age",
+                "autoId": 13262,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13262"
+            },
+            {
+                "id": "90925",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "End-stage renal disease ESRD related services less than full month, per day; for patients twenty years of age and over",
+                "autoId": 13263,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13263"
+            },
+            {
+                "id": "90935",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Hemodialysis procedure with single physician evaluation",
+                "autoId": 13264,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13264"
+            },
+            {
+                "id": "90937",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Hemodialysis procedure requiring repeated evaluations with or without substantial revision of dialysis prescription",
+                "autoId": 13265,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13265"
+            },
+            {
+                "id": "90940",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Hemodialysis access flow study to determine blood flow in grafts and arteriovenous fistulae by an indicator method",
+                "autoId": 13266,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13266"
+            },
+            {
+                "id": "90945",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Dialysis procedure other than hemodialysis eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies, with single physician evaluation",
+                "autoId": 13267,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13267"
+            },
+            {
+                "id": "90947",
+                "systemId": "2.16.840.1.113883.3.57.1.3.17.6",
+                "displayText": "Dialysis procedure other than hemodialysis eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies requiring repeated physician evaluations, with or without substantial revision of dialysis prescription",
+                "autoId": 13268,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13268"
+            },
+            {
+                "id": "G0257",
+                "systemId": "HCPCS",
+                "displayText": "UNSCHEDULED OR EMERGENCY DIALYSIS TREATMENT FOR AN ESRD PATIENT IN A HOSPITAL OUTPATIENT DEPARTMENT THAT IS NOT CERTIFIED AS AN ESRD FACILITY",
+                "autoId": 13269,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "13269"
+            }
+        ]
+    },
+    "id": 33921,
+    "name": "Dialysis Services",
+    "normalizedName": null,
+    "owner": {
+        "userId": 1039393,
+        "userName": "A.Shirur",
+        "firstName": null,
+        "lastName": null,
+        "clientId": "0123",
+        "isPublisher": false
+    },
+    "parent": {
+        "$id": "2",
+        "childCount": 0,
+        "children": [],
+        "isCurrentUsersHome": false,
+        "id": 33900,
+        "name": null,
+        "normalizedName": null,
+        "owner": null,
+        "parent": null,
+        "createdDate": "0001-01-01T00:00:00",
+        "updatedDate": "0001-01-01T00:00:00",
+        "isFolderType": true,
+        "isOpen": false,
+        "isHome": false,
+        "inUse": null,
+        "type": 0,
+        "isAtp": false,
+        "isNLM": false,
+        "valueSetNameTermUID": null,
+        "uniformId": null,
+        "createdByUser": null,
+        "updatedByUser": null,
+        "retired": false,
+        "content": null
+    },
+    "createdDate": "2016-09-06T15:45:56.78",
+    "updatedDate": "2016-10-24T09:07:32.387",
+    "isFolderType": false,
+    "isOpen": true,
+    "isHome": false,
+    "inUse": [
+        {
+            "id": 33914,
+            "name": "NQF0018",
+            "label": null,
+            "description": null,
+            "isVisible": false
+        },
+        {
+            "id": 44421,
+            "name": "my first knowledge module",
+            "label": "Todd.Eischeid",
+            "description": "2016-10-24T09:07:32.703",
+            "isVisible": false
+        }
+    ],
+    "type": 2,
+    "isAtp": false,
+    "isNLM": false,
+    "valueSetNameTermUID": null,
+    "uniformId": "517a3f46-2f61-4e58-9417-6136cdf70ceb",
+    "createdByUser": "A.Shirur",
+    "updatedByUser": "Todd.Eischeid",
+    "retired": false
+}

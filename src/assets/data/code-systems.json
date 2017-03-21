@@ -1,0 +1,17 @@
+
+[
+{"label": "ACCDS"},
+{"label": "Act Status"},
+{"label": "ATP GUID"},
+{"label": "CPT"},
+{"label": "CPT II"},
+{"label": "CPT4"},
+{"label": "CVX"},
+{"label": "HCC"},
+{"label": "HCPCS"},
+{"label": "ICD 10"},
+{"label": "ICD 9"},
+{"label": "LOINC"},
+{"label": "RXNORM"},
+{"label": "SNOMED CT"}
+]

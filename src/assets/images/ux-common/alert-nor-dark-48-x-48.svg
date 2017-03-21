@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>31E57E0F-8FCC-4A2B-B375-17E2351CBD7B</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alert_nor_dark_48x48" fill="#666666">
+            <path d="M14.0592,48 L0,33.9408 L0,14.0592 L14.0592,0 L33.9408,0 L48,14.0592 L48,33.9408 L33.9408,48 L14.0592,48 Z M29,38 C29,40.75375 26.7625,43 24,43 C21.23625,43 19,40.75375 19,38 C19,35.23625 21.23625,33 24,33 C26.7625,33 29,35.23625 29,38 Z M20,6 L28,6 L28,28 L20,28 L20,6 Z" id="alert"></path>
+        </g>
+    </g>
+</svg>

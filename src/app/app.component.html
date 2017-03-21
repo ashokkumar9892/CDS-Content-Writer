@@ -1,0 +1,53 @@
+<div class="navbar fixed-top" style="padding: 0 !important;">
+    <div class="product-banner row align-items-center">
+        <div class="col">Allscripts Clinical Content Creator</div>
+    </div>
+
+    <div style="border-bottom:1px solid #007d8a;background: white;" class="row">
+
+        <div class="col">
+          <ul class="nav nav-pills">
+            <li class="nav-item">
+              <a class="nav-link" href="#" routerLink="content-programs" routerLinkActive="active">Content Programs</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" routerLink="recommendations" routerLinkActive="active">Recommendations</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" routerLink="rules" routerLinkActive="active">Rules Test Area</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" routerLink="serviceTest" routerLinkActive="active">Service Test Page</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" routerLink="hubs" routerLinkActive="active">Hubs Test Page</a>
+            </li>
+
+
+          </ul>
+        </div>
+
+        <div class="col"></div>
+
+        <div class="dropdown col col-md-auto">
+            <button style="letter-spacing: 0.08em;color:#007d8a" class="btn btn-secondary btn-secondary-plain-round dropdown-toggle dropdown-toggle-plain" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                &bull;&bull;&bull;
+            </button>
+
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
+                <a class="dropdown-item" href="#" routerLink="templates">Templates</a>
+                <a class="dropdown-item">Value Sets</a>
+
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+<div class="container-fluid" style="padding: 0 !important;overflow: hidden">
+
+<div>
+   <router-outlet></router-outlet>
+</div>
+
+</div>

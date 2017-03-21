@@ -1,0 +1,2089 @@
+{
+    "$id": "1",
+    "content": {
+        "uniformId": null,
+        "version": null,
+        "metadatahistory": [
+            {
+                "version": null,
+                "date": "2016-10-14T14:09:48.27",
+                "user": {
+                    "userId": 0,
+                    "userName": "Shruti.D",
+                    "firstName": null,
+                    "lastName": null,
+                    "clientId": null,
+                    "isPublisher": false
+                },
+                "description": "Value Set Imported from File",
+                "descriptor": ""
+            }
+        ],
+        "codes": [
+            {
+                "id": "1013659",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Minocycline 105 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "1013662",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Minocycline 55 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "1013665",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Minocycline 80 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "1043022",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefixime 100 MG Chewable Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "1043030",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefixime 200 MG Chewable Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "105152",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 60 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "105170",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefadroxil 25 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "105171",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefadroxil 100 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "108449",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Trimethoprim 10 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "1148107",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "{6 (Azithromycin 500 MG Oral Tablet) } Pack",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "1302650",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Minocycline 45 MG Extended Release Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "1302659",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Minocycline 67.5 MG Extended Release Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "1302664",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Minocycline 90 MG Extended Release Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "1302669",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Minocycline 112.5 MG Extended Release Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "1302674",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Minocycline 135 MG Extended Release Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "1373014",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefixime 100 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "141962",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Azithromycin 250 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "141963",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Azithromycin 40 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "142118",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Sulfamethoxazole 100 MG / Trimethoprim 20 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "1423080",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "doxycycline hyclate 200 MG Delayed Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197449",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefaclor 500 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197451",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefixime 400 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197452",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "cefprozil 250 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197453",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "cefprozil 500 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197454",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cephalexin 500 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197511",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ciprofloxacin 250 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197512",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ciprofloxacin 750 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197516",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clarithromycin 250 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197517",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clarithromycin 500 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197518",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clindamycin 150 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197595",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Dicloxacillin 250 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197596",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Dicloxacillin 500 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197650",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Erythromycin 500 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197984",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Minocycline 100 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "197985",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Minocycline 50 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "198048",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ofloxacin 200 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "198049",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ofloxacin 300 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "198050",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ofloxacin 400 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "198250",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Tetracycline 250 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "198252",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Tetracycline 500 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "198332",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Trimethoprim 100 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "198334",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Sulfamethoxazole 400 MG / Trimethoprim 80 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "198335",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Sulfamethoxazole 800 MG / Trimethoprim 160 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "199332",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Trimethoprim 300 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "199370",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ciprofloxacin 100 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "199884",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Levofloxacin 250 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "199885",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Levofloxacin 500 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "200346",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "cefdinir 300 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "204466",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "50 ML Penicillin G Potassium 40000 UNT/ML Injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "204844",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Azithromycin 600 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "205964",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clindamycin 150 MG/ML Injectable Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "207362",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Minocycline 50 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "207364",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Minocycline 100 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "207390",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "50 ML Penicillin G Potassium 20000 UNT/ML Injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "207391",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "50 ML Penicillin G Potassium 60000 UNT/ML Injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "226633",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ampicillin 125 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "239191",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 50 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "240741",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clarithromycin 25 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "240984",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ampicillin 100 MG/ML / Sulbactam 50 MG/ML Injectable Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "245240",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Erythromycin 333 MG Delayed Release Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "245242",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Erythromycin 20 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "246282",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 100 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "248656",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Azithromycin 500 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "283535",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "doxycycline hyclate 20 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "284215",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clindamycin 300 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308177",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 125 MG Chewable Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308181",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 200 MG Chewable Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308182",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 250 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308188",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 400 MG Chewable Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308189",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 80 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308191",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 500 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308192",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 500 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308194",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 875 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308207",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ampicillin 125 MG Injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308210",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ampicillin 50 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308212",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ampicillin 500 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308459",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Azithromycin 20 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "308460",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Azithromycin 250 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309040",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefaclor 37.4 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309042",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefaclor 75 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309043",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "12 HR Cefaclor 500 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309044",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefaclor 25 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309045",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefaclor 250 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309047",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefadroxil 1000 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309048",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefadroxil 50 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309049",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefadroxil 500 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309054",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "cefdinir 25 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309058",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefixime 20 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309076",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "cefpodoxime 100 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309077",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "cefpodoxime 20 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309078",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "cefpodoxime 200 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309079",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "cefpodoxime 10 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309080",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "cefprozil 25 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309081",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "cefprozil 50 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309085",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "ceftibuten 36 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309086",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "ceftibuten 400 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309087",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "ceftibuten 18 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309090",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ceftriaxone 100 MG/ML Injectable Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309092",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ceftriaxone 250 MG Injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309095",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefuroxime 125 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309096",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefuroxime 25 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309097",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefuroxime 250 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309098",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefuroxime 500 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309101",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefuroxime 95 MG/ML Injectable Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309110",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cephalexin 25 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309112",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cephalexin 250 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309113",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cephalexin 50 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309114",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cephalexin 500 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309115",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cephalexin 250 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309308",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ciprofloxacin 50 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309309",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ciprofloxacin 500 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309310",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ciprofloxacin 100 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309322",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clarithromycin 50 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309329",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clindamycin 75 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309335",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clindamycin 12 MG/ML Injectable Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309336",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clindamycin 18 MG/ML Injectable Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309339",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clindamycin 6 MG/ML Injectable Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "309860",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Dicloxacillin 125 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "310026",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Doxycycline Calcium 10 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "310027",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "doxycycline hyclate 100 MG Injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "310028",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "doxycycline hyclate 20 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "310154",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Erythromycin 250 MG Delayed Release Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "310155",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Erythromycin 250 MG Delayed Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "310157",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Erythromycin 500 MG Delayed Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "311296",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Levofloxacin 750 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "311787",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "moxifloxacin 400 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "313134",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Sulfamethoxazole 40 MG/ML / Trimethoprim 8 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "313137",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Sulfamethoxazole 80 MG/ML / Trimethoprim 16 MG/ML Injectable Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "313251",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Tetracycline 25 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "313797",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 25 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "313799",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ampicillin 25 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "313800",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ampicillin 250 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "313850",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 40 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "313888",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefaclor 50 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "313920",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefazolin 200 MG/ML Injectable Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "313926",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefuroxime 50 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "314108",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Minocycline 75 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "315090",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Erythromycin 333 MG Delayed Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "317127",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Minocycline 20 MG/ML Injectable Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "348869",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "doxycycline hyclate 100 MG Delayed Release Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "348870",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "doxycycline hyclate 75 MG Delayed Release Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "351121",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Minocycline 1 MG Oral Powder",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "351127",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "cefditoren pivoxil 200 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "351156",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "250 ML moxifloxacin 1.6 MG/ML Injection",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "351239",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clavulanate 1 MG/ML / Ticarcillin 30 MG/ML Injectable Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "359383",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Ciprofloxacin 500 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "359385",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Clarithromycin 500 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "403840",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Minocycline 75 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "403921",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Ciprofloxacin 1000 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "403945",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 20 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "406524",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "doxycycline hyclate 75 MG Delayed Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "406696",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cephalexin 125 MG Disintegrating Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "409823",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefixime 400 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "419849",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefixime 40 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "434018",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "doxycycline hyclate 100 MG Delayed Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "476322",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefaclor 125 MG Chewable Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "476325",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefaclor 187 MG Chewable Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "476327",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefaclor 250 MG Chewable Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "476576",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "cefdinir 50 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "476623",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cefaclor 375 MG Chewable Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "477391",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Levofloxacin 25 MG/ML Oral Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "487129",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Erythromycin Estolate 100 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "562251",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "562253",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 125 MG / Clavulanate 31.2 MG Chewable Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "562266",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clindamycin 15 MG/ML Oral Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "562508",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 875 MG / Clavulanate 125 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "562707",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Trimethoprim 10 MG/ML Oral Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "597455",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clarithromycin 1000 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "598006",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Erythromycin 250 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "598025",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 250 MG Chewable Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "617296",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 500 MG / Clavulanate 125 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "617302",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 25 MG/ML / Clavulanate 6.25 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "617304",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 250 MG / Clavulanate 62.5 MG Chewable Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "617309",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 200 MG / Clavulanate 28.5 MG Chewable Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "617316",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 400 MG / Clavulanate 57 MG Chewable Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "617322",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 50 MG/ML / Clavulanate 12.5 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "617423",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 40 MG/ML / Clavulanate 5.7 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "617430",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 80 MG/ML / Clavulanate 11.4 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "617993",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 120 MG/ML / Clavulanate 8.58 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "617995",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "12 HR Amoxicillin 1000 MG / Clavulanate 62.5 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "629695",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Minocycline 135 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "629697",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Minocycline 45 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "629699",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Minocycline 90 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "636559",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Metronidazole 750 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "637173",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cephalexin 750 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "645617",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Cephalexin 333 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "686355",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "erythromycin stearate 250 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "686383",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Erythromycin Ethylsuccinate 40 MG/ML / Sulfisoxazole 120 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "686400",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Erythromycin Ethylsuccinate 40 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "686405",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Erythromycin Ethylsuccinate 400 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "686406",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "erythromycin stearate 500 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "686418",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Erythromycin Ethylsuccinate 80 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "700408",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Doxycycline Monohydrate 75 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "728207",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Doxycycline Monohydrate 150 MG Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "731538",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "2 ML penicillin G benzathine 300000 UNT/ML / penicillin G procaine 300000 UNT/ML Prefilled Syringe",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "731564",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "1 ML penicillin G benzathine 600000 UNT/ML Prefilled Syringe",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "731567",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "2 ML penicillin G benzathine 600000 UNT/ML Prefilled Syringe",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "731570",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "4 ML penicillin G benzathine 600000 UNT/ML Prefilled Syringe",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "745302",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Penicillin G Sodium 100000 UNT/ML Injectable Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "745462",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "2 ML penicillin G procaine 600000 UNT/ML Prefilled Syringe",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "745560",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "1 ML penicillin G procaine 600000 UNT/ML Prefilled Syringe",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "749780",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "{3 (Azithromycin 500 MG Oral Tablet) } Pack",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "749783",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "{6 (Azithromycin 250 MG Oral Tablet) } Pack",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "757460",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "{31 (Doxycycline Monohydrate 100 MG Oral Tablet) } Pack",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "757464",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "{31 (Doxycycline Monohydrate 75 MG Oral Tablet) } Pack",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "757466",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "{60 (Doxycycline Monohydrate 100 MG Oral Tablet) } Pack",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "761979",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "{5 (moxifloxacin 400 MG Oral Tablet) } Pack",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "762666",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "{5 (Levofloxacin 750 MG Oral Tablet) } Pack",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "789980",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ampicillin 100 MG/ML Injectable Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "799048",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "doxycycline hyclate 150 MG Delayed Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "802550",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Amoxicillin 775 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "835341",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "{14 (24 HR Clarithromycin 500 MG Extended Release Oral Tablet) } Pack",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "835700",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "{30 (Doxycycline Monohydrate 150 MG Oral Tablet) } Pack",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "836306",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "2 ML penicillin G benzathine 450000 UNT/ML / penicillin G procaine 150000 UNT/ML Prefilled Syringe",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "847360",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "cefditoren pivoxil 400 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "858062",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Minocycline 115 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "858372",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "24 HR Minocycline 65 MG Extended Release Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "861416",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Azithromycin 16.7 MG/ML Oral Suspension",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "863538",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Penicillin G Potassium 1000000 UNT/ML Injectable Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "877486",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Ofloxacin 600 MG Oral Tablet",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "900424",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "Clindamycin 25 MG/ML Oral Solution",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            },
+            {
+                "id": "901399",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.3",
+                "displayText": "doxycycline anhydrous 40 MG Delayed Release Oral Capsule",
+                "autoId": 0,
+                "translations": [],
+                "isRetired": false,
+                "termUID": null
+            }
+        ]
+    },
+    "id": 33731,
+    "name": "Antibiotic Medications",
+    "normalizedName": null,
+    "owner": {
+        "userId": 1039393,
+        "userName": "A.Shirur",
+        "firstName": null,
+        "lastName": null,
+        "clientId": "0123",
+        "isPublisher": false
+    },
+    "parent": {
+        "$id": "2",
+        "childCount": 0,
+        "children": [],
+        "isCurrentUsersHome": false,
+        "id": 33724,
+        "name": null,
+        "normalizedName": null,
+        "owner": null,
+        "parent": null,
+        "createdDate": "0001-01-01T00:00:00",
+        "updatedDate": "0001-01-01T00:00:00",
+        "isFolderType": true,
+        "isOpen": false,
+        "isHome": false,
+        "inUse": null,
+        "type": 0,
+        "isAtp": false,
+        "isNLM": false,
+        "valueSetNameTermUID": null,
+        "uniformId": null,
+        "createdByUser": null,
+        "updatedByUser": null,
+        "retired": false,
+        "content": null
+    },
+    "createdDate": "2016-08-30T14:12:33.117",
+    "updatedDate": "2016-10-24T09:02:32.633",
+    "isFolderType": false,
+    "isOpen": true,
+    "isHome": false,
+    "inUse": [
+        {
+            "id": 33728,
+            "name": "NQF0002",
+            "label": null,
+            "description": null,
+            "isVisible": false
+        },
+        {
+            "id": 44421,
+            "name": "my first knowledge module",
+            "label": "Todd.Eischeid",
+            "description": "2016-10-24T09:02:32.978",
+            "isVisible": false
+        }
+    ],
+    "type": 2,
+    "isAtp": false,
+    "isNLM": false,
+    "valueSetNameTermUID": null,
+    "uniformId": "3e248b45-3e19-4cc8-b1b9-b3dd3e3cb0d9",
+    "createdByUser": "A.Shirur",
+    "updatedByUser": "Todd.Eischeid",
+    "retired": false
+}

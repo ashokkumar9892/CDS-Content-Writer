@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>C5DE895F-06A3-4E51-A93E-E5260B5813AA</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="patient_nor_dark_48x48" fill="#666666">
+            <path d="M11.491,12 C11.491,5.37 16.863,0 23.491,0 C30.119,0 35.491,5.37 35.491,12 C35.491,18.628 30.119,24 23.491,24 C16.863,24 11.491,18.628 11.491,12 Z M48,48 L0,48 L0,32 C0,28.687 2.686,26 6,26 L42,26 C45.313,26 48,28.687 48,32 L48,48 Z" id="patient"></path>
+        </g>
+    </g>
+</svg>

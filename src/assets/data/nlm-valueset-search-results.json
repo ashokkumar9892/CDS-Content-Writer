@@ -1,0 +1,137 @@
+[
+  {
+    "id": 970,
+    "name": "Coronary Artery Bypass Graft",
+    "set_type": "Grouping",
+    "code_system": "CPT HCPCS SNOMEDCT",
+    "steward": "National Committee for Quality Assurance",
+    "oid": "2.16.840.1.113883.3.464.1003.104.12.1002",
+    "definition_version": "20160331"
+  },
+  {
+    "id": 971,
+    "name": "Coronary Artery Bypass Graft",
+    "set_type": "Extensional",
+    "code_system": "SNOMEDCT",
+    "steward": "National Committee for Quality Assurance",
+    "oid": "2.16.840.1.113883.3.464.1003.104.11.1004",
+    "definition_version": "20160331"
+  },
+  {
+    "id": 972,
+    "name": "Coronary Artery Bypass Graft",
+    "set_type": "Extensional",
+    "code_system": "HCPCS",
+    "steward": "National Committee for Quality Assurance",
+    "oid": "2.16.840.1.113883.3.464.1003.104.11.1006",
+    "definition_version": "20160331"
+  },
+  {
+    "id": 973,
+    "name": "Coronary Artery Bypass Graft",
+    "set_type": "Extensional",
+    "code_system": "CPT",
+    "steward": "National Committee for Quality Assurance",
+    "oid": "2.16.840.1.113883.3.464.1003.104.11.1005",
+    "definition_version": "20160331"
+  },
+  {
+    "id": 974,
+    "name": "Coronary Artery Disease No MI",
+    "set_type": "Grouping",
+    "code_system": "ICD10CM ICD9CM SNOMEDCT",
+    "steward": "American Medical Association-convened Physician Consortium for Performance Improvement(R)",
+    "oid": "2.16.840.1.113883.3.526.3.369",
+    "definition_version": "20160331"
+  },
+  {
+    "id": 975,
+    "name": "Coronary Artery Disease No MI",
+    "set_type": "Extensional",
+    "code_system": "ICD10CM",
+    "steward": "American Medical Association-convened Physician Consortium for Performance Improvement(R)",
+    "oid": "2.16.840.1.113883.3.526.2.57",
+    "definition_version": "20160331"
+  },
+  {
+    "id": 976,
+    "name": "Coronary Artery Disease No MI",
+    "set_type": "Extensional",
+    "code_system": "SNOMEDCT",
+    "steward": "American Medical Association-convened Physician Consortium for Performance Improvement(R)",
+    "oid": "2.16.840.1.113883.3.526.2.120",
+    "definition_version": "20160331"
+  },
+  {
+    "id": 977,
+    "name": "Coronary Artery Disease No MI",
+    "set_type": "Extensional",
+    "code_system": "ICD9CM",
+    "steward": "American Medical Association-convened Physician Consortium for Performance Improvement(R)",
+    "oid": "2.16.840.1.113883.3.526.2.56",
+    "definition_version": "20160331"
+  },
+  {
+    "id": 1375,
+    "name": "Framingham coronary heart disease 10 year risk",
+    "set_type": "Grouping",
+    "code_system": "LOINC",
+    "steward": "Quality Insights of Pennsylvania",
+    "oid": "2.16.840.1.113883.3.600.1561",
+    "definition_version": "20160331"
+  },
+  {
+    "id": 1376,
+    "name": "Framingham coronary heart disease 10 year risk LOINC",
+    "set_type": "Extensional",
+    "code_system": "LOINC",
+    "steward": "Quality Insights of Pennsylvania",
+    "oid": "2.16.840.1.113883.3.600.1560",
+    "definition_version": "20160331"
+  },
+  {
+    "id": 1377,
+    "name": "Framingham coronary heart disease 10 year risk SNOMED",
+    "set_type": "Extensional",
+    "code_system": "SNOMEDCT",
+    "steward": "Quality Insights of Pennsylvania",
+    "oid": "2.16.840.1.113883.3.600.1478",
+    "definition_version": "20140502"
+  },
+  {
+    "id": 2745,
+    "name": "Percutaneous Coronary Interventions",
+    "set_type": "Grouping",
+    "code_system": "CPT SNOMEDCT",
+    "steward": "National Committee for Quality Assurance",
+    "oid": "2.16.840.1.113883.3.464.1003.104.12.1010",
+    "definition_version": "20160331"
+  },
+  {
+    "id": 2746,
+    "name": "Percutaneous Coronary Interventions",
+    "set_type": "Extensional",
+    "code_system": "",
+    "steward": "National Committee for Quality Assurance",
+    "oid": "2.16.840.1.113883.3.464.1003.104.11.1027",
+    "definition_version": "20150430"
+  },
+  {
+    "id": 2747,
+    "name": "Percutaneous Coronary Interventions",
+    "set_type": "Extensional",
+    "code_system": "CPT",
+    "steward": "National Committee for Quality Assurance",
+    "oid": "2.16.840.1.113883.3.464.1003.104.11.1026",
+    "definition_version": "20160331"
+  },
+  {
+    "id": 2748,
+    "name": "Percutaneous Coronary Interventions",
+    "set_type": "Extensional",
+    "code_system": "SNOMEDCT",
+    "steward": "National Committee for Quality Assurance",
+    "oid": "2.16.840.1.113883.3.464.1003.104.11.1028",
+    "definition_version": "20160331"
+  }
+]

@@ -1,0 +1,39 @@
+
+<!--
+<div style="display: flex; flex-direction: column;">
+  <div style="margin-left: 20px;display:flex;flex-direction: row" *ngFor="let item of items; let idx = index">
+    <span ng-class="{'deleted-task': task.deletedPending}" >{{item.label}}</span>
+    <div (click)="deleteTask(idx)" class="close-icon">&times;</div>
+  </div>
+-->
+
+<div style="display: flex; flex-direction: column;">
+
+  <ul class="list-group" style="max-width: 400px;">
+  <li class="list-group-item" style="display:flex;flex-direction: row" *ngFor="let item of items; let idx = index">
+    <span ng-class="{'deleted-task': task.deletedPending}" style="flex: auto" >{{item.label}}</span>
+    <div (click)="deleteTask(idx)" class="close-icon" style="flex: none">&times;</div>
+
+  </li>
+
+    <li class="list-group-item" style="display:flex;flex-direction: row">
+      <input #searchInputBox *ngIf="cfg.allowFilter"  [(ngModel)]="searchStr" (blur)="onSearchBoxBlur($event)" (focus)="onSearchBoxFocus($event)" (keyup)="onSearchBoxKeyed(item, $event)" type="text" class="search-box" [(placeholder)]="cfg.addLinkText"/>
+      <input type="button" #searchInputBox *ngIf="!cfg.allowFilter" class="search-box" (click)="toggleSelectionMenu()" (blur)="onSearchBoxBlur($event)" [value]="cfg.addLinkText" />
+    </li>
+  </ul>
+
+</div>
+
+
+<!--
+  <div style="display:flex;flex-direction: row">
+    <input #searchInputBox *ngIf="cfg.allowFilter"  [(ngModel)]="searchStr" (blur)="onSearchBoxBlur($event)" (focus)="onSearchBoxFocus($event)" (keyup)="onSearchBoxKeyed(item, $event)" type="text" class="search-box" [(placeholder)]="cfg.addLinkText"/>
+    <input type="button" #searchInputBox *ngIf="!cfg.allowFilter" class="search-box" (click)="toggleSelectionMenu()" (blur)="onSearchBoxBlur($event)" [value]="cfg.addLinkText" />
+  </div>
+-->
+
+<div #optionsMenu class="options-menu" [ngStyle]="optionsMenuStyle" >
+  <div *ngFor="let item of filteredChoices" style="display: flex;flex-direction: column; align-items: stretch;">
+    <a (click)="addTask(item.name)" (mousedown)="onOptionMouseDown($event)" class="selection-option" >{{item.name}}</a>
+  </div>
+</div>

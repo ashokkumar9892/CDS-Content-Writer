@@ -1,0 +1,117 @@
+{
+  "title": "BMI",
+  "id": "9011a315-e683-4163-b606-cbbe33120707",
+
+  "nodes": [
+    {
+      "label": "START",
+      "id":"1000",
+      "root": true
+    },
+    {
+      "label": "Patient age >= 18 and <= 64 years",
+      "id": "1",
+      "type": "rule"
+    },
+    {
+      "label": "Palliative Care OR Active Dx Pregnancy",
+      "id": "2",
+      "type": "rule"
+    },
+    {
+      "label": "BMI LOINC calc or height or weight for medical or other reason not done. ",
+      "id": "3",
+      "type": "rule"
+    },
+    {
+      "label": "Most recent BMI or height/weight recorded <= 6 months",
+      "id": "4",
+      "type": "rule"
+    },
+    {
+      "label": "BMI result > 25",
+      "id": "5",
+      "type": "rule"
+    },
+    {
+      "label": "BMI result < 18.5",
+      "id": "6",
+      "type": "rule"
+    },
+    {
+      "label": "one of following ordered in past 6 months above normal.",
+      "id": "7",
+      "type": "rule"
+    },
+    {
+      "label": "one of following ordered in past 6 months below normal.",
+      "id": "8",
+      "type": "rule"
+    },
+    {
+      "label": "Recommendation: BMI assessment is recommended every 6 months",
+      "id": "9",
+      "type": "recommendation"
+    },
+    {
+      "label": "Recommendation: Above normal BMI intervention is recommended every 6 months",
+      "id": "10",
+      "type": "recommendation"
+    },
+    {
+      "label": "Recommendation: Below normal BMI intervention is recommended every 6 months",
+      "id": "11",
+      "type": "recommendation"
+    },
+    {
+      "label": "STOP",
+      "id": "990",
+      "type": "stop"
+    },
+    {
+      "label": "STOP",
+      "id": "991",
+      "type": "stop"
+    },
+    {
+      "label": "STOP",
+      "id": "992",
+      "type": "stop"
+    },
+    {
+      "label": "STOP",
+      "id": "993",
+      "type": "stop"
+    },
+    {
+      "label": "STOP",
+      "id": "994",
+      "type": "stop"
+    },
+    {
+      "label": "STOP",
+      "id": "995",
+      "type": "stop"
+    }
+  ],
+  "links": [
+    {"source": "1000", "target": "1"},
+    {"source": "1", "target": "2", "label": "yes"},
+    {"source": "8", "target": "11", "label": "no"},
+    {"source": "1", "target": "990", "label": "no"},
+    {"source": "2", "target": "3", "label": "no"},
+    {"source": "2", "target": "991" , "label": "yes"},
+    {"source": "3", "target": "4", "label": "no"},
+    {"source": "3", "target": "992", "label": "yes"},
+    {"source": "4", "target": "9", "label": "no"},
+    {"source": "4", "target": "5", "label": "yes"},
+    {"source": "5", "target": "6", "label": "no"},
+    {"source": "5", "target": "7", "label": "yes"},
+    {"source": "7", "target": "993", "label": "yes"},
+    {"source": "7", "target": "10", "label": "no"},
+    {"source": "6", "target": "994", "label": "no"},
+    {"source": "6", "target": "8", "label": "no"},
+    {"source": "8", "target": "995", "label": "yes"}
+
+  ]
+}

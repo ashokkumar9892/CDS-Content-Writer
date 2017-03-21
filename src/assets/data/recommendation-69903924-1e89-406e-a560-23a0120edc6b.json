@@ -1,0 +1,123 @@
+{
+  "title":"Depression Screening",
+  "id":"69903924-1e89-406e-a560-23a0120edc6b",
+
+  "nodes": [
+    {
+      "id":99,
+      "label": "START",
+      "type": "start"
+
+    },
+    {
+      "id": 1,
+      "label": "12 years or older and less than 18 years",
+      "type": "rule",
+      "parent": ""
+    },
+    {
+      "id": 2,
+      "label": "Active Diagnosis of Depression or Bipolar",
+      "type": "rule",
+      "parent": ""
+    },
+    {
+      "id": 3,
+      "label": "Adolescent Depression Screening not performed due to medical reason contraindicated or patient reason denied.",
+      "type": "rule",
+      "parent": ""
+    },
+    {
+      "id": 4,
+      "label": "Additional evaluation for depression adolescent intervention performed in last year",
+      "type": "rule",
+      "parent": ""
+    },
+    {
+      "id": 5,
+      "label": "referral for depression adolescent intervention performed in past year",
+      "type": "rule",
+      "parent": ""
+    },
+    {
+      "id": 6,
+      "label": "Active medication of depressant medications adolescent",
+      "type": "rule",
+      "parent": ""
+    },
+    {
+      "id": 7,
+      "label": "followup for depression adolescent performed in the past year",
+      "type": "rule",
+      "parent": ""
+    },
+    {
+      "id": 8,
+      "label": "adolescent depression screening performed in the past year",
+      "type": "rule",
+      "parent": ""
+    },
+    {
+      "id": 9,
+      "label": "positive depression screening up to 1 day after adolescent depression screening",
+      "type": "rule",
+      "parent": ""
+    },
+    {
+      "id": 10,
+      "label": "Annual screening for depression is recommended for patients age 12 to 17",
+      "type": "recommendation",
+      "parent": ""
+    },
+    {
+      "id": 11,
+      "label": "patient had a positive depression screening and has not received a follow up.",
+      "type": "recommendation",
+      "parent": ""
+    },
+    {
+      "id": 100,
+      "label": "STOP",
+      "type": "stop"
+    },
+    {
+      "id": 101,
+      "label": "STOP",
+      "type": "stop"
+    },
+    {
+      "id": 102,
+      "label": "STOP",
+      "type": "stop"
+    },
+    {
+      "id": 103,
+      "label": "STOP",
+      "type": "stop"
+    },
+    {
+      "id": 104,
+      "label": "STOP",
+      "type": "stop"
+    }
+  ],
+  "links": [
+    {"source":99, "target": 1, "label":""},
+    {"source":1, "target": 2, "label":""},
+    {"source":2, "target": 3, "label":""},
+    {"source":3, "target": 4, "label":""},
+    {"source":4, "target": 5, "label":""},
+    {"source":5, "target": 6, "label":""},
+    {"source":6, "target": 7, "label":""},
+    {"source":7, "target": 8, "label":""},
+    {"source":8, "target": 9, "label":""},
+    {"source":9, "target": 11, "label":""},
+    {"source":8, "target": 10, "label":""},
+    {"source":1, "target": 100, "label":""},
+    {"source":2, "target": 101, "label":""},
+    {"source":3, "target": 102, "label":""},
+    {"source":7, "target": 103, "label":""},
+    {"source":9, "target": 104, "label":""}
+
+  ]
+}

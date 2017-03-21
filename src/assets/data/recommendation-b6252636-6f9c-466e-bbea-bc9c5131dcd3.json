@@ -1,0 +1,210 @@
+{
+  "title": "Immunization Recommendation",
+  "id": "b6252636-6f9c-466e-bbea-bc9c5131dcd3",
+  "nodes":
+    [
+      {
+        "label": "Varicella Immunization Recorded",
+        "id": "8a9bf9d1-20ec-4e90-8cbc-7b6de7ec7b18",
+        "groupOperator": "any",
+        "continueIfYes": false,
+        "items": [
+          {
+            "title": "with material type (1)",
+            "id": "e42e514a-bc8a-4cb1-a620-4614cd5be208",
+            "type": "condition",
+            "groupOperator": "all",
+            "ruleAttributes": [
+              {
+                "field": "Material Type",
+                "attrType": "coded",
+                "comparison": "is in a value set",
+                "attrStatus": [],
+                "valueSetName": [
+                  "ActNoImmunizationReason"
+                ]
+              },
+              {
+                "field": "Status",
+                "attrType": "status",
+                "comparison": "equals",
+                "attrStatus": [
+                  "Completed",
+                  "Complete",
+                  "Final",
+                  "Final, Reviewed"
+                ]
+              },
+              {
+                "field": "Administered Date",
+                "attrType": "date",
+                "comparison": "is not missing",
+                "attrStatus": []
+              }
+            ],
+            "groupTypeId": "3b59ad9a-f979-4f00-aadf-5edb23a8b149"
+          },
+          {
+            "title": "immunization as procedure",
+            "id": "6c2a241f-acf5-4b22-9e29-423066252901",
+            "type": "condition",
+            "groupOperator": "all",
+            "ruleAttributes": [
+              {
+                "field": "Procedure Type",
+                "attrType": "coded",
+                "comparison": "is in a value set",
+                "attrStatus": [],
+                "valueSetName": [
+                  "Colonoscopy"
+                ]
+              },
+              {
+                "field": "Status",
+                "attrType": "status",
+                "comparison": "equals",
+                "attrStatus": [
+                  "Complete",
+                  "Completed",
+                  "Final",
+                  "Final, Reviewed"
+                ]
+              }
+            ],
+            "groupTypeId": "f87a8da1-d02b-458a-8b27-b54f76b715aa"
+          },
+          {
+            "title": "immunization as material type (2)",
+            "id": "8d39bf56-c984-4965-9bc6-1a7b0e3f7a9a",
+            "type": "condition",
+            "groupOperator": "all",
+            "ruleAttributes": [
+              {
+                "field": "Material Type",
+                "attrType": "coded",
+                "comparison": "is in a value set",
+                "attrStatus": [],
+                "valueSetName": [
+                  "Persistent Asthma"
+                ]
+              },
+              {
+                "field": "Status",
+                "attrType": "status",
+                "comparison": "equals",
+                "attrStatus": [
+                  "Temporary",
+                  "Permanent"
+                ]
+              }
+            ],
+            "groupTypeId": "3b59ad9a-f979-4f00-aadf-5edb23a8b149"
+          }
+        ]
+      },
+      {
+        "label": "Varicella Lab Order or Result",
+        "id": "7f6cdebc-888e-408e-bf26-67275cca29fe",
+        "groupOperator": "any",
+        "continueIfYes": false,
+        "items": [
+          {
+            "title": "titer order",
+            "id": "e6c083c7-c403-4830-8a6d-c74ea0a98247",
+            "type": "condition",
+            "groupOperator": "all",
+            "ruleAttributes": [
+              {
+                "field": "Lab Order",
+                "attrType": "coded",
+                "comparison": "is in a value set",
+                "attrStatus": [],
+                "valueSetName": [
+                  "PLS Varicella Titer Order CPTandSNOMED 9 2016"
+                ]
+              },
+              {
+                "field": "Status",
+                "attrType": "status",
+                "comparison": "does not equal",
+                "attrStatus": [
+                  "Rejected"
+                ]
+              },
+              {
+                "field": "Order Date",
+                "attrType": "date",
+                "comparison": "on or after",
+                "attrStatus": []
+              }
+            ],
+            "groupTypeId": "b999701e-cacb-4e2e-a2b0-efb9bd6768fb"
+          },
+          {
+            "title": "immunization as procedure",
+            "id": "3f294915-b077-4c1f-8775-994e1392eee8",
+            "type": "condition",
+            "groupOperator": "all",
+            "ruleAttributes": [
+              {
+                "field": "Test Type",
+                "attrType": "coded",
+                "comparison": "is in a value set",
+                "attrStatus": [],
+                "valueSetName": [
+                  "PLS Varicella Titer order LOINC 9 2016"
+                ]
+              },
+              {
+                "field": "Status",
+                "attrType": "status",
+                "comparison": "does not equal",
+                "attrStatus": [
+                  "Rejected"
+                ]
+              },
+              {
+                "field": "Result Date",
+                "attrType": "date",
+                "comparison": "is not missing"
+              },
+              {
+                "field": "Value",
+                "attrType": "float",
+                "comparison": "greater than or equal to"
+              }
+            ],
+            "groupTypeId": "55462e7a-809f-46d4-b0b2-f7c7848c30ff"
+          }
+        ]
+      },
+      {
+        "label": "Recommendation",
+        "id": "c5bf25f3-aa5d-4d90-a528-b1c76a2de1fe",
+        "type": "recommendation",
+        "recText": "This patient does not have a documented Varicella vaccine. If no evidence of immunity, consider immunization.",
+        "guidanceText": "Centers for Disease Control and Prevention's (CDC) Advisory Committee on Immunization Practices (ACIP) ",
+        "description": "Patient >= 18 years of age and born after 1980 and no Varicella vaccination documented"
+      },
+      {
+        "label":"STOP",
+        "id":"100",
+        "type": "stop"
+      },
+      {
+        "label":"STOP",
+        "id":"101",
+        "type": "stop"
+      }
+    ],
+
+  "links": [
+
+    {"source":"8a9bf9d1-20ec-4e90-8cbc-7b6de7ec7b18", "target":"7f6cdebc-888e-408e-bf26-67275cca29fe", "label":""},
+    {"source":"7f6cdebc-888e-408e-bf26-67275cca29fe", "target":"c5bf25f3-aa5d-4d90-a528-b1c76a2de1fe", "label":""},
+    {"source":"8a9bf9d1-20ec-4e90-8cbc-7b6de7ec7b18", "target":"100", "label":""},
+    {"source":"7f6cdebc-888e-408e-bf26-67275cca29fe", "target":"101", "label":""}
+
+
+  ]
+}

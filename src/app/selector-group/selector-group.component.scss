@@ -1,0 +1,84 @@
+
+@import "../../vars";
+
+/*hover states of rect, text, etc. are all handled by assigning hover to the g element that all of those are contained in*/
+.rule-g {
+
+    cursor: pointer;
+
+
+    .btn-add-new {
+        fill: none;
+        stroke: #999999;
+        stroke-dasharray: 5 5;
+        stroke-width: 1;
+        cursor: pointer;
+
+    }
+
+
+
+    & * .rule-label {
+
+        font-size:smaller;
+        color:#999999;
+        cursor: pointer;
+    }
+
+    &.selected {
+        .rule-rect {
+            fill: $ux-blue-3;
+            stroke: $ux-blue-4;
+            cursor: pointer;
+        }
+
+
+        & * .rule-label {
+            color: white;
+            font-weight: bold;
+
+        }
+
+    }
+
+    &.selected:hover {
+        .rule-rect {
+            fill: $ux-blue-3;
+            stroke: $ux-blue-4;
+        }
+
+        & * .rule-label  {
+            color: white;
+            font-weight: bold;
+
+        }
+
+    }
+
+    &:hover {
+
+
+        .rule-rect {
+            stroke: $ux-blue-3;
+            fill: $ux-blue-1;
+            cursor: pointer;
+        }
+
+        .btn-add-new {
+
+            stroke: $ux-blue-3;
+
+        }
+
+    }
+
+
+    .rule-rect {
+
+        stroke: #acacac;
+        fill: #ffffff;
+        cursor: pointer;
+
+    }
+
+}

@@ -1,0 +1,49 @@
+[{
+    "id": 3593,
+    "name": "Varicella Zoster",
+    "set_type": "Grouping",
+    "code_system": "ICD10CM ICD9CM SNOMEDCT",
+    "steward": "National Committee for Quality Assurance",
+    "oid": "2.16.840.1.113883.3.464.1003.110.12.1039",
+    "definition_version": "20160331"
+}, {
+    "id": 3596,
+    "name": "Varicella Zoster Antibody Test (IgG Antibody Presence)",
+    "set_type": "Grouping",
+    "code_system": "LOINC",
+    "steward": "National Committee for Quality Assurance",
+    "oid": "2.16.840.1.113883.3.464.1003.198.12.1067",
+    "definition_version": "20160331"
+}, {
+    "id": 3599,
+    "name": "Varicella Zoster Antibody Test (IgG Antibody Titer)",
+    "set_type": "Grouping",
+    "code_system": "LOINC",
+    "steward": "National Committee for Quality Assurance",
+    "oid": "2.16.840.1.113883.3.464.1003.198.12.1066",
+    "definition_version": "20160331"
+}, {
+    "id": 3600,
+    "name": "Varicella Zoster Antigen Test",
+    "set_type": "Grouping",
+    "code_system": "LOINC",
+    "steward": "National Committee for Quality Assurance",
+    "oid": "2.16.840.1.113883.3.464.1003.198.12.1032",
+    "definition_version": "20140501"
+}, {
+    "id": 3603,
+    "name": "Varicella Zoster Vaccine (VZV)",
+    "set_type": "Grouping",
+    "code_system": "CVX",
+    "steward": "National Committee for Quality Assurance",
+    "oid": "2.16.840.1.113883.3.464.1003.196.12.1170",
+    "definition_version": "20160331"
+}, {
+    "id": 3605,
+    "name": "Varicella Zoster Vaccine (VZV) Administered",
+    "set_type": "Grouping",
+    "code_system": "CPT SNOMEDCT",
+    "steward": "National Committee for Quality Assurance",
+    "oid": "2.16.840.1.113883.3.464.1003.110.12.1040",
+    "definition_version": "20160331"
+}]

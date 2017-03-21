@@ -1,0 +1,247 @@
+{
+    "$id": "1",
+    "content": {
+        "uniformId": "74645001-fc57-4b18-b672-dad7244a8594",
+        "version": null,
+        "metadatahistory": [],
+        "codes": [
+            {
+                "id": "17741008",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Acute tonsillitis disorder",
+                "autoId": 9783,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9783"
+            },
+            {
+                "id": "195666007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Acute erythematous tonsillitis disorder",
+                "autoId": 9784,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9784"
+            },
+            {
+                "id": "195667003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Acute follicular tonsillitis disorder",
+                "autoId": 9785,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9785"
+            },
+            {
+                "id": "195668008",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Acute ulcerative tonsillitis disorder",
+                "autoId": 9786,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9786"
+            },
+            {
+                "id": "195669000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Acute catarrhal tonsillitis disorder",
+                "autoId": 9787,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9787"
+            },
+            {
+                "id": "195670004",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Acute gangrenous tonsillitis disorder",
+                "autoId": 9788,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9788"
+            },
+            {
+                "id": "195671000",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Acute bacterial tonsillitis disorder",
+                "autoId": 9789,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9789"
+            },
+            {
+                "id": "195672007",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Acute pneumococcal tonsillitis disorder",
+                "autoId": 9790,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9790"
+            },
+            {
+                "id": "195673002",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Acute staphylococcal tonsillitis disorder",
+                "autoId": 9791,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9791"
+            },
+            {
+                "id": "195676005",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Acute viral tonsillitis disorder",
+                "autoId": 9792,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9792"
+            },
+            {
+                "id": "195677001",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Recurrent acute tonsillitis disorder",
+                "autoId": 9793,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9793"
+            },
+            {
+                "id": "302911003",
+                "systemId": "2.16.840.1.113883.3.57.1.2.17.2",
+                "displayText": "Acute lingual tonsillitis disorder",
+                "autoId": 9794,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9794"
+            },
+            {
+                "id": "463",
+                "systemId": "ICD9",
+                "displayText": "Acute tonsillitis",
+                "autoId": 9795,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9795"
+            },
+            {
+                "id": "J03.01",
+                "systemId": "ICD10",
+                "displayText": "Acute recurrent streptococcal tonsillitis",
+                "autoId": 9796,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9796"
+            },
+            {
+                "id": "J03.00",
+                "systemId": "ICD10",
+                "displayText": "Acute streptococcal tonsillitis, unspecified",
+                "autoId": 9797,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9797"
+            },
+            {
+                "id": "J03.80",
+                "systemId": "ICD10",
+                "displayText": "Acute tonsillitis due to other specified organisms",
+                "autoId": 9798,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9798"
+            },
+            {
+                "id": "J03.81",
+                "systemId": "ICD10",
+                "displayText": "Acute recurrent tonsillitis due to other specified organisms",
+                "autoId": 9799,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9799"
+            },
+            {
+                "id": "J03.90",
+                "systemId": "ICD10",
+                "displayText": "Acute tonsillitis, unspecified",
+                "autoId": 9800,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9800"
+            },
+            {
+                "id": "J03.91",
+                "systemId": "ICD10",
+                "displayText": "Acute recurrent tonsillitis, unspecified",
+                "autoId": 9801,
+                "translations": [],
+                "isRetired": false,
+                "termUID": "9801"
+            }
+        ]
+    },
+    "id": 33730,
+    "name": "Acute Tonsillitis",
+    "normalizedName": null,
+    "owner": {
+        "userId": 1039393,
+        "userName": "A.Shirur",
+        "firstName": null,
+        "lastName": null,
+        "clientId": "0123",
+        "isPublisher": false
+    },
+    "parent": {
+        "$id": "2",
+        "childCount": 0,
+        "children": [],
+        "isCurrentUsersHome": false,
+        "id": 33724,
+        "name": null,
+        "normalizedName": null,
+        "owner": null,
+        "parent": null,
+        "createdDate": "0001-01-01T00:00:00",
+        "updatedDate": "0001-01-01T00:00:00",
+        "isFolderType": true,
+        "isOpen": false,
+        "isHome": false,
+        "inUse": null,
+        "type": 0,
+        "isAtp": false,
+        "isNLM": false,
+        "valueSetNameTermUID": null,
+        "uniformId": null,
+        "createdByUser": null,
+        "updatedByUser": null,
+        "retired": false,
+        "content": null
+    },
+    "createdDate": "2016-08-30T14:12:33.107",
+    "updatedDate": "2016-10-24T09:01:51.833",
+    "isFolderType": false,
+    "isOpen": true,
+    "isHome": false,
+    "inUse": [
+        {
+            "id": 33728,
+            "name": "NQF0002",
+            "label": null,
+            "description": null,
+            "isVisible": false
+        },
+        {
+            "id": 44421,
+            "name": "my first knowledge module",
+            "label": "Todd.Eischeid",
+            "description": "2016-10-24T09:01:52.64",
+            "isVisible": false
+        }
+    ],
+    "type": 2,
+    "isAtp": false,
+    "isNLM": false,
+    "valueSetNameTermUID": null,
+    "uniformId": "74645001-fc57-4b18-b672-dad7244a8594",
+    "createdByUser": "A.Shirur",
+    "updatedByUser": "Todd.Eischeid",
+    "retired": false
+}
